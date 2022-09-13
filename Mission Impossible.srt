@@ -1,0 +1,4238 @@
+1
+00:00:19,644 --> 00:00:21,770
+KYJEV
+
+2
+00:00:23,606 --> 00:00:25,107
+Dob�e...
+
+3
+00:00:28,069 --> 00:00:29,778
+...�e jste n�s zavolal.
+
+4
+00:00:31,990 --> 00:00:34,783
+Nev�m, co se stalo.
+
+5
+00:00:36,411 --> 00:00:37,995
+Sed�li jsme v baru,
+
+6
+00:00:40,123 --> 00:00:41,290
+...pili...
+
+7
+00:00:42,459 --> 00:00:44,001
+...a bavili se.
+
+8
+00:00:45,045 --> 00:00:46,754
+Ani nev�m...
+
+9
+00:00:47,839 --> 00:00:50,340
+...jak jsem se sem dostal.
+
+10
+00:00:52,385 --> 00:00:55,137
+No tak, u� je v limbu moc dlouho.
+
+11
+00:00:55,513 --> 00:00:58,140
+Jen vy mi m��ete pomoct.
+
+12
+00:01:03,271 --> 00:01:05,939
+No tak...
+
+13
+00:01:06,441 --> 00:01:08,484
+�ekni mi, co chci v�d�t.
+
+14
+00:01:08,777 --> 00:01:10,110
+Mluv.
+
+15
+00:01:10,653 --> 00:01:12,112
+Oni m� zabijou.
+
+16
+00:01:15,408 --> 00:01:17,242
+��kal jsi, �e chce� pomoct.
+
+17
+00:01:19,496 --> 00:01:20,579
+Tak mluv.
+
+18
+00:01:23,249 --> 00:01:24,291
+D�lej.
+
+19
+00:01:25,335 --> 00:01:26,668
+Kontakt v Minsku...
+
+20
+00:01:26,836 --> 00:01:29,421
+Jm�no. �ekni n�m jm�no.
+
+21
+00:01:30,799 --> 00:01:32,758
+Dimitrij...
+
+22
+00:01:49,692 --> 00:01:50,692
+Co te�?
+
+23
+00:01:52,862 --> 00:01:54,154
+Napijeme se.
+
+24
+00:01:54,364 --> 00:01:55,781
+<i>Na zdrav�.</i>
+
+25
+00:02:16,678 --> 00:02:18,053
+Zbavte se toho sr��e.
+
+26
+00:02:26,396 --> 00:02:27,729
+Dr� ji pevn�.
+
+27
+00:02:30,733 --> 00:02:32,359
+No tak.
+
+28
+00:02:57,427 --> 00:02:58,927
+�ekl n�m to?
+
+29
+00:02:59,596 --> 00:03:00,596
+Jo.
+
+30
+00:03:56,819 --> 00:03:58,737
+Chcete sledovat film, pane Rosene?
+
+31
+00:03:58,821 --> 00:04:00,322
+Ne, d�kuji.
+
+32
+00:04:05,787 --> 00:04:08,664
+Chcete sledovat film, pane Phelpsi?
+
+33
+00:04:08,748 --> 00:04:10,749
+M�m rad�ji divadlo.
+
+34
+00:04:11,000 --> 00:04:13,502
+A co t�eba ukrajinsk� film?
+
+35
+00:04:15,588 --> 00:04:17,464
+Vybrala byste mi n�jak�?
+
+36
+00:04:22,262 --> 00:04:23,345
+D�kuji.
+
+37
+00:04:48,371 --> 00:04:50,289
+<i>Dobr� jitro, pane Phelpsi.</i>
+
+38
+00:04:50,373 --> 00:04:53,208
+<i>Tenhle mu� je Alexandr Golicyn,</i>
+
+39
+00:04:53,293 --> 00:04:55,711
+<i>ata�� na na�� pra�sk� ambas�d�.</i>
+
+40
+00:04:55,795 --> 00:04:57,546
+<i>Je to zr�dce.</i>
+
+41
+00:04:58,506 --> 00:05:01,341
+<i>Ukradl polovinu seznamu</i>
+
+42
+00:05:01,801 --> 00:05:05,470
+<i>v�ech tajn�ch agent� CIA</i>
+<i>ve v�chodn� Evrop�.</i>
+
+43
+00:05:05,555 --> 00:05:07,055
+POUZE PRO JIMA PHELPSE
+
+44
+00:05:07,181 --> 00:05:09,391
+<i>Seznam je z bezpe�nostn�ch d�vod�</i>
+<i>rozd�len nap�l.</i>
+
+45
+00:05:09,517 --> 00:05:10,559
+KRYC� JM�NA
+
+46
+00:05:10,643 --> 00:05:13,645
+<i>Golicyn m� jen tu ��st,</i>
+<i>kde jsou kryc� jm�na.</i>
+
+47
+00:05:13,730 --> 00:05:15,897
+<i>Ta je bezcenn� bez druh� p�lky,</i>
+
+48
+00:05:15,982 --> 00:05:18,400
+<i>kter� p�i�azuje kryc� jm�na</i>
+<i>ke skute�n�m.</i>
+
+49
+00:05:18,526 --> 00:05:19,735
+SKUTE�N� JM�NA
+�PLN� SEZNAM
+
+50
+00:05:19,861 --> 00:05:23,155
+<i>Tuto polovinu chce Golicyn ukr�st</i>
+<i>z ambas�dy</i>
+
+51
+00:05:23,239 --> 00:05:25,657
+<i>b�hem z�t�ej�� ve�ern� recepce.</i>
+
+52
+00:05:25,742 --> 00:05:28,285
+<i>Pokud misi p�ijmete, Jime,</i>
+<i>bude va��m �kolem</i>
+
+53
+00:05:28,411 --> 00:05:31,413
+<i>z�skat fotografick� d�kaz o kr�de�i,</i>
+
+54
+00:05:31,539 --> 00:05:35,417
+<i>sledovat Golicyna ke kupci</i>
+<i>a zatknout je.</i>
+
+55
+00:05:36,210 --> 00:05:39,921
+<i>Na m�sto u� jsme vyslali t�m va�ich lid�.</i>
+
+56
+00:05:40,048 --> 00:05:42,299
+<i>Sarah Daviesov� je ji� v ter�nu,</i>
+<i>v p�estrojen�.</i>
+
+57
+00:05:42,425 --> 00:05:45,385
+<i>Jack Harmon se dostane do ka�d�ho</i>
+<i>bezpe�nostn�ho syst�mu.</i>
+
+58
+00:05:45,470 --> 00:05:47,804
+<i>Hannah Williamsov�</i>
+<i>bude na akci dohl�et.</i>
+
+59
+00:05:47,930 --> 00:05:50,515
+<i>Va�e �ena Claire zajist� odvoz</i>
+
+60
+00:05:50,600 --> 00:05:53,894
+<i>a v ter�nu bude t�mu velet Ethan Hunt,</i>
+<i>jako obvykle.</i>
+
+61
+00:05:54,562 --> 00:05:57,022
+<i>Je v Kyjev�, ale brzy doraz� do Prahy.</i>
+
+62
+00:05:57,106 --> 00:05:58,982
+<i>Setk�te se v bezpe�n�m dom�,</i>
+<i>kter� vyberete.</i>
+
+63
+00:05:59,150 --> 00:06:02,235
+<i>A jako v�dy, pokud n�koho z t�mu</i>
+
+64
+00:06:02,445 --> 00:06:04,237
+<i>chyt� nebo zabij�,</i>
+
+65
+00:06:04,322 --> 00:06:07,824
+<i>st�tn� tajemn�k pop�e,</i>
+<i>�e by o va�ich akc�ch v�d�l.</i>
+
+66
+00:06:08,117 --> 00:06:10,911
+<i>Tato p�ska se za p�t vte�in sama zni��.</i>
+
+67
+00:06:10,995 --> 00:06:12,579
+<i>Hodn� �t�st�, Jime.</i>
+
+68
+00:06:30,848 --> 00:06:34,476
+PRAHA
+
+69
+00:06:35,144 --> 00:06:37,270
+�kol je jasn�.
+
+70
+00:06:37,980 --> 00:06:40,482
+Vyfotit Golicyna p�i kr�de�i seznamu,
+
+71
+00:06:40,608 --> 00:06:42,609
+sledovat ho a� ke kupci
+
+72
+00:06:42,819 --> 00:06:44,778
+a oba zatknout.
+
+73
+00:06:45,488 --> 00:06:46,655
+Provedeme to n�sledovn�.
+
+74
+00:06:47,323 --> 00:06:50,992
+Ethane, na ve��rek na ambas�d�
+p�jde� v p�estrojen�
+
+75
+00:06:51,119 --> 00:06:53,328
+za hlavouna a nebude� se schov�vat.
+
+76
+00:06:53,955 --> 00:06:57,040
+- Jasn�?
+- Tak to m�m nejrad�i.
+
+77
+00:06:58,000 --> 00:07:00,502
+Sarah, ty u� na ve��rku bude�
+
+78
+00:07:00,628 --> 00:07:02,671
+coby vl�dn� pracovnice.
+
+79
+00:07:02,797 --> 00:07:05,549
+Nav�e� kontakt s Ethanem
+a spole�n� budete akci ��dit.
+
+80
+00:07:05,842 --> 00:07:07,175
+Nem�m co na sebe.
+
+81
+00:07:09,637 --> 00:07:11,346
+Ur�it� n�co vymysl�.
+
+82
+00:07:13,224 --> 00:07:14,766
+Najdete Golicyna
+a navedete ho k Hannah.
+
+83
+00:07:14,851 --> 00:07:17,018
+Hannah, ty ho sleduj uvnit� ambas�dy.
+
+84
+00:07:17,353 --> 00:07:20,230
+- Najdi si m�ste�ko a nespus� z n�j o�i.
+- Jasn�.
+
+85
+00:07:20,356 --> 00:07:21,690
+- Jacku?
+- Ano?
+
+86
+00:07:22,150 --> 00:07:25,569
+Ke kontrole zabezpe�en� na otisk prst�
+se d� dostat v�tahovou �achtou.
+
+87
+00:07:26,195 --> 00:07:27,904
+Tak�e si nevezmu sako.
+
+88
+00:07:28,030 --> 00:07:29,573
+Otev�e�, zav�e� a vypa�� se.
+
+89
+00:07:30,074 --> 00:07:31,700
+Nenech� po sob� ��dn� stopy.
+
+90
+00:07:33,244 --> 00:07:36,121
+Claire, ty po�k� venku v aut�.
+
+91
+00:07:36,205 --> 00:07:38,957
+Hannah se k tob� p�id�,
+a� Golicyn vyjde ven,
+
+92
+00:07:39,041 --> 00:07:41,668
+- a budete ho sledovat spole�n�.
+- Jasn�.
+
+93
+00:07:41,752 --> 00:07:43,211
+Kdy� se n�co pokaz�, ru��m akci.
+
+94
+00:07:43,588 --> 00:07:45,714
+A v�ichni to okam�it� zabal�.
+
+95
+00:07:47,258 --> 00:07:50,218
+Sejdeme se tu ve 4 r�no. Tedy ve 4.00.
+
+96
+00:07:50,761 --> 00:07:52,345
+Dotazy?
+
+97
+00:07:53,848 --> 00:07:54,931
+Jo.
+
+98
+00:07:56,058 --> 00:07:57,809
+Nedali by n�m sem
+automat na kapu��no?
+
+99
+00:07:57,894 --> 00:07:59,394
+Tohle je kafe snad jen
+
+100
+00:07:59,729 --> 00:08:01,730
+podle jm�na.
+
+101
+00:08:01,856 --> 00:08:04,065
+- To jsem d�lala j�.
+- Ch�pu.
+
+102
+00:08:04,192 --> 00:08:06,818
+Je snad je�t� hor��,
+ne� ta b�e�ka, kterou jsi va�ila
+
+103
+00:08:06,903 --> 00:08:08,570
+- v t� stodole v Kyjev�.
+- D�ky.
+
+104
+00:08:08,696 --> 00:08:10,530
+Nenav�ej se mi do �eny kv�li kafi.
+
+105
+00:08:11,532 --> 00:08:14,034
+- V Kyjev� jsi n�m chyb�l, Jime.
+- Ty mn� taky, Ethane.
+
+106
+00:08:14,118 --> 00:08:16,703
+Zau�oval jsi nov� agenty?
+Pohodi�ka, co?
+
+107
+00:08:16,787 --> 00:08:18,538
+Kde to bylo tentokr�t? Plaza?
+
+108
+00:08:19,624 --> 00:08:20,916
+Hotel Drake v Chicagu.
+
+109
+00:08:22,418 --> 00:08:23,543
+No to je pech.
+
+110
+00:08:23,628 --> 00:08:26,338
+- Don�ka na pokoj cel�ch 24 hodin.
+- Auta se �of�rem.
+
+111
+00:08:26,422 --> 00:08:27,839
+A v�echno gr�tis.
+
+112
+00:08:27,924 --> 00:08:30,425
+- U� st�rne a pot�ebuje pohodl�.
+- No jo. Koukni na n�j.
+
+113
+00:08:31,427 --> 00:08:32,427
+Poslouchejte.
+
+114
+00:08:33,137 --> 00:08:34,971
+Jestli se ten seznam dostane ven,
+
+115
+00:08:35,223 --> 00:08:38,099
+dostanou se jm�na v�ech
+na�ich agent� ve v�chodn� Evrop�
+
+116
+00:08:38,226 --> 00:08:40,227
+do rukou tomu, kdo nab�dne nejv�c.
+
+117
+00:08:41,103 --> 00:08:43,939
+Terorist�m, obchodn�k�m se zbran�mi,
+drogov�m boss�m.
+
+118
+00:08:44,065 --> 00:08:47,234
+Ti v�ichni se cht�j� zbavit
+tajn�ch agent�, jako jsme my.
+
+119
+00:08:47,902 --> 00:08:51,613
+Kdy� odhal� jejich toto�nost, zabijou je.
+
+120
+00:08:53,282 --> 00:08:56,743
+J� budu akci ��dit odsud.
+
+121
+00:08:56,827 --> 00:08:59,496
+Ka�d� zn� sv�j �kol.
+Te� si �ekneme podrobnosti.
+
+122
+00:08:59,789 --> 00:09:02,249
+V m�stku br�l� m� kameru.
+
+123
+00:09:02,917 --> 00:09:05,627
+Vid� v�echno, co vid� ty,
+a p�epos�l� mi z�znam.
+
+124
+00:09:06,420 --> 00:09:07,462
+Vid�?
+
+125
+00:09:08,130 --> 00:09:09,631
+Sly�� m�?
+
+126
+00:09:09,757 --> 00:09:12,300
+- Jasn�.
+- Ne, v tom...
+
+127
+00:09:12,426 --> 00:09:14,177
+- Pot�ebuje� sluch�tko.
+- Aha.
+
+128
+00:09:18,432 --> 00:09:19,808
+M� kr�sn� o�i.
+
+129
+00:09:19,934 --> 00:09:22,102
+- Sly�� m�?
+- To si pi�.
+
+130
+00:09:22,478 --> 00:09:24,187
+Kdy� odjede p�istaven�m autem,
+
+131
+00:09:25,147 --> 00:09:27,524
+mus�te se ho za ka�dou cenu dr�et.
+
+132
+00:09:27,650 --> 00:09:28,650
+Odpoledne si
+
+133
+00:09:28,776 --> 00:09:30,443
+to tady proje�te.
+
+134
+00:09:30,528 --> 00:09:32,279
+V t�ch uli�k�ch se d� t�ko vyznat.
+
+135
+00:09:32,613 --> 00:09:34,614
+Co mysl�, �e jsem cel� r�no d�lala?
+
+136
+00:09:34,991 --> 00:09:37,867
+- P�jdu v p�estrojen� za Waltzera?
+- Ano.
+
+137
+00:09:39,161 --> 00:09:41,037
+Nep�edsed� sly�en�
+ozbrojen�ch slo�ek?
+
+138
+00:09:42,206 --> 00:09:45,500
+Ne. Tenhle t�den ryba�� na mu�ku
+
+139
+00:09:45,710 --> 00:09:47,877
+v Oughterard Slough v hrabstv� Kildare
+
+140
+00:09:48,004 --> 00:09:50,380
+- s na��m elitn�m irsk�m pr�vodcem.
+- Jo.
+
+141
+00:09:50,506 --> 00:09:52,674
+A hned tak se nevr�t�.
+
+142
+00:09:53,509 --> 00:09:55,218
+<i>....je to irelevantn�</i>
+
+143
+00:09:55,344 --> 00:09:57,721
+<i>nebo dokonce ne�stavn�.</i>
+
+144
+00:09:57,888 --> 00:09:59,389
+<i>P�i v�� �ct�, sen�tore,</i>
+
+145
+00:09:59,515 --> 00:10:02,434
+<i>zd� se, �e byste cht�l v�st</i>
+<i>stejn� �to�nou kampa�</i>
+
+146
+00:10:02,518 --> 00:10:05,729
+<i>jako sen�tor Frank Church</i>
+<i>v sedmdes�t�ch letech</i>
+
+147
+00:10:05,855 --> 00:10:09,024
+<i>a t�m likvidovat akceschopnost</i>
+<i>v�zv�dn�ch slo�ek</i>
+
+148
+00:10:09,108 --> 00:10:10,233
+<i>- na�� zem�.</i>
+<i>- Ne, Johne.</i>
+
+149
+00:10:10,359 --> 00:10:12,485
+<i>Chci v�d�t, co je to za lidi</i>
+
+150
+00:10:12,570 --> 00:10:15,196
+<i>a na co vynakl�daj� pen�ze</i>
+<i>da�ov�ch poplatn�k�.</i>
+
+151
+00:10:15,281 --> 00:10:18,742
+<i>P�ece �ijeme v demokracii.</i>
+
+152
+00:10:20,119 --> 00:10:21,411
+V�, jak to funguje?
+
+153
+00:10:22,413 --> 00:10:23,580
+- Ne.
+- Aha.
+
+154
+00:10:24,123 --> 00:10:25,874
+�erven� a zelen� sv�t�lko.
+
+155
+00:10:26,125 --> 00:10:29,210
+Kdy� nem��e� otev��t z�mek,
+zm��kni je ob� z�rove�
+
+156
+00:10:30,921 --> 00:10:32,964
+a rychle zmiz.
+
+157
+00:10:33,716 --> 00:10:35,216
+Asi za p�t vte�in to bouchne.
+
+158
+00:10:38,554 --> 00:10:39,638
+Ne�v�kej ji.
+
+159
+00:11:18,427 --> 00:11:20,261
+Ethane, Jack je uvnit�.
+
+160
+00:11:20,971 --> 00:11:22,013
+Jdeme.
+
+161
+00:11:27,103 --> 00:11:28,186
+<i>Dobr� den, sen�tore.</i>
+
+162
+00:11:28,270 --> 00:11:29,813
+<i>Rand Housman, pobo�n�k velvyslance.</i>
+
+163
+00:11:29,939 --> 00:11:31,606
+<i>- Dobr� den.</i>
+<i>- Jak� byla opera?</i>
+
+164
+00:11:33,359 --> 00:11:34,943
+Nudn�.
+
+165
+00:11:35,152 --> 00:11:37,654
+Poj�te za mnou.
+P�edb�hneme tuhle frontu.
+
+166
+00:11:47,331 --> 00:11:50,166
+<i>- Dobr� den, sen�tore.</i>
+<i>- Jeho �ena, pan� Reidov�.</i>
+
+167
+00:11:50,292 --> 00:11:52,043
+Okna se otev�ou ve 23.00.
+
+168
+00:11:52,128 --> 00:11:54,587
+- Petr Brandl, pra�sk� prim�tor.
+- Dobr� den.
+
+169
+00:11:54,672 --> 00:11:56,214
+A jeho cho�.
+
+170
+00:11:58,801 --> 00:12:00,677
+Vy si m� ur�it� nepamatujete, vi�te?
+
+171
+00:12:00,803 --> 00:12:03,096
+Ale ano, sle�no Normanov�.
+
+172
+00:12:03,180 --> 00:12:05,557
+Stoj� na schodi�ti.
+
+173
+00:12:10,187 --> 00:12:12,981
+Pane Golicyne, t�� m�.
+
+174
+00:12:14,984 --> 00:12:16,025
+Hannah,
+
+175
+00:12:19,739 --> 00:12:20,822
+<i>ztmav si br�le.</i>
+
+176
+00:12:31,083 --> 00:12:33,752
+<i>Sarah, ozna� objekt a p�ejdi do tunelu.</i>
+
+177
+00:12:39,258 --> 00:12:42,218
+Podle lid� z va�eho p��pravn�ho t�mu
+tu pr� chcete prov�st.
+
+178
+00:12:42,344 --> 00:12:44,512
+Tak jsem p�ipravila prohl�dku.
+S dovolen�m.
+
+179
+00:12:44,597 --> 00:12:45,847
+Tudy. D�kuji.
+
+180
+00:12:57,735 --> 00:12:59,068
+Dopr�ic.
+
+181
+00:12:59,570 --> 00:13:01,780
+...kter� vede do jedin�
+
+182
+00:13:01,864 --> 00:13:05,200
+nep��stupn� ��sti v cel� budov�.
+
+183
+00:13:30,226 --> 00:13:31,559
+Guvern�r je na m�st�.
+
+184
+00:13:41,570 --> 00:13:43,947
+- Promi�te. Mohu n�jak pomoci?
+- Pardon.
+
+185
+00:13:44,073 --> 00:13:47,492
+Jak vid�te, je tu vojensk� str�
+a pr�myslov� kamera.
+
+186
+00:13:47,576 --> 00:13:49,953
+Je to tu jak... Pardon.
+
+187
+00:13:50,079 --> 00:13:51,871
+N�kde to tu je.
+
+188
+00:13:51,956 --> 00:13:54,916
+Ser�ante, pro� nejste v uniform�?
+
+189
+00:13:56,460 --> 00:13:59,754
+<i>Dnes ve�er m�me b�t v civilu.</i>
+<i>Dostali jsme rozkaz.</i>
+
+190
+00:14:02,007 --> 00:14:03,508
+Hned jsem zp�tky.
+
+191
+00:14:04,927 --> 00:14:08,096
+Sen�tore, m�te v t�mu
+�lov�ka jm�nem Jack?
+
+192
+00:14:08,764 --> 00:14:11,850
+<i>Jack? Ano, kdysi u n�s d�lal.</i>
+
+193
+00:14:11,934 --> 00:14:15,520
+Nebyl na n�j spoleh, po��d chodil pozd�
+
+194
+00:14:15,855 --> 00:14:17,438
+<i>a nest�hal svou agendu.</i>
+
+195
+00:14:20,276 --> 00:14:23,361
+<i>Musel jsem ho uv�zat</i>
+<i>za sv�ho nejlep��ho h�ebce</i>
+
+196
+00:14:23,445 --> 00:14:24,612
+a p�r dn� ho nechat
+
+197
+00:14:24,697 --> 00:14:26,531
+<i>vl��et po st�ji.</i>
+
+198
+00:14:26,615 --> 00:14:28,783
+Nep�eh�n�j to, kovboji. D�l�m na tom.
+
+199
+00:14:32,496 --> 00:14:34,998
+SOUBOR BYL NAHR�N
+
+200
+00:14:42,381 --> 00:14:43,756
+Promi�te, pane.
+
+201
+00:14:44,383 --> 00:14:45,758
+- D�kuji.
+- Hezk� ve�er.
+
+202
+00:14:45,843 --> 00:14:46,926
+D�kuji.
+
+203
+00:14:58,355 --> 00:15:01,566
+Sch�zku se Sarah nestihneme.
+
+204
+00:15:31,013 --> 00:15:32,055
+V��.
+
+205
+00:15:37,519 --> 00:15:39,854
+M��� do zak�zan� z�ny.
+
+206
+00:15:42,524 --> 00:15:43,608
+<i>Pohni, Ethane.</i>
+
+207
+00:15:43,859 --> 00:15:44,943
+Jde k tob�.
+
+208
+00:15:55,788 --> 00:15:56,871
+Jacku.
+
+209
+00:15:59,458 --> 00:16:00,708
+Jacku, jsme na m�st�.
+
+210
+00:16:02,544 --> 00:16:04,545
+<i>- Jacku.</i>
+- Nedotkl jsem se toho.
+
+211
+00:16:07,591 --> 00:16:09,217
+Nem�m kab�t. Zmrznu.
+
+212
+00:16:09,301 --> 00:16:10,551
+Jacku, otev�i dve�e.
+
+213
+00:16:20,896 --> 00:16:22,897
+Je ve v�tahu, Ethane. Je ve v�tahu.
+
+214
+00:16:23,732 --> 00:16:24,774
+<i>Jasn�.</i>
+
+215
+00:16:24,900 --> 00:16:26,901
+P�jdeme Golicynov�m v�chodem.
+Otev�i n�m.
+
+216
+00:16:26,986 --> 00:16:28,319
+Nejde to.
+
+217
+00:16:29,905 --> 00:16:32,115
+Otev�r�m. Prob�hn�te.
+
+218
+00:16:34,785 --> 00:16:35,910
+Rychle.
+
+219
+00:17:15,784 --> 00:17:17,702
+- M� to.
+- Jasn�.
+
+220
+00:17:18,620 --> 00:17:21,956
+- Zase jsem ti zachr�nil k��i, Jacku.
+<i>- Nech toho, ta�ko.</i>
+
+221
+00:17:22,041 --> 00:17:23,624
+Takov�ho fe��ka by byla �koda.
+
+222
+00:17:24,043 --> 00:17:25,668
+Osam�l�ho fe��ka.
+
+223
+00:17:26,545 --> 00:17:29,297
+- Za p�t minut za�ne transport.
+- No jo.
+
+224
+00:18:12,508 --> 00:18:15,593
+Jacku, jsme na m�st�.
+Otev�i dve�e, a� ho m��eme sledovat.
+
+225
+00:18:15,677 --> 00:18:17,845
+Rozum�m. Otev�r�m dve�e.
+
+226
+00:18:19,181 --> 00:18:20,598
+Schodi�t�. Konec prvn�ho �kolu.
+
+227
+00:18:20,682 --> 00:18:22,308
+<i>Jdi ven.</i>
+
+228
+00:18:28,315 --> 00:18:29,357
+Co je?
+
+229
+00:18:32,027 --> 00:18:34,362
+- Jacku, co d�l�?
+- Nic.
+
+230
+00:18:38,659 --> 00:18:40,368
+CHYBA V P��STUPU DO SYST�MU
+
+231
+00:18:41,036 --> 00:18:42,370
+Neovl�d�m to.
+
+232
+00:18:42,996 --> 00:18:45,414
+- Tak to m�m probl�m.
+- Vypni elektriku.
+
+233
+00:18:47,876 --> 00:18:50,211
+- Vypni elektriku, Jacku.
+- D�lej.
+
+234
+00:18:51,046 --> 00:18:52,505
+Vypni to.
+
+235
+00:18:52,589 --> 00:18:53,756
+<i>Jacku?</i>
+
+236
+00:18:54,925 --> 00:19:02,925
+Jacku?
+
+237
+00:19:11,233 --> 00:19:12,942
+<i>Jacku, sly�� m�?</i>
+
+238
+00:19:13,402 --> 00:19:15,528
+<i>- Jacku?</i>
+- Je mrtv�, Ethane.
+
+239
+00:19:15,904 --> 00:19:17,238
+<i>Je mrtv�.</i>
+
+240
+00:19:36,758 --> 00:19:38,801
+<i>Ethane, z�sta�, kde jsi.</i>
+
+241
+00:19:39,595 --> 00:19:41,262
+Jdu k tob�.
+
+242
+00:19:56,236 --> 00:19:57,987
+Hledan� objekt je venku.
+
+243
+00:20:02,409 --> 00:20:03,618
+Jime,
+
+244
+00:20:04,411 --> 00:20:05,870
+<i>je pry�.</i>
+
+245
+00:20:05,954 --> 00:20:07,121
+Vy�el ven.
+
+246
+00:20:27,017 --> 00:20:28,267
+Jime, je venku.
+
+247
+00:20:30,854 --> 00:20:32,480
+Jime, hledan� objekt je venku.
+
+248
+00:20:37,152 --> 00:20:39,820
+- N�kdo m� sleduje.
+- M��e� ho set��st?
+
+249
+00:20:40,322 --> 00:20:41,697
+Ne. Ru��m akci.
+
+250
+00:20:42,449 --> 00:20:43,491
+Ethane, zmizel jim.
+
+251
+00:20:48,622 --> 00:20:49,914
+To nejde.
+
+252
+00:20:49,998 --> 00:20:52,959
+Je to l��ka, Ethane. Ru��m akci.
+To je rozkaz.
+
+253
+00:20:53,043 --> 00:20:55,544
+Ne. Golicyn u� vyrazil.
+
+254
+00:20:55,671 --> 00:20:57,838
+<i>Ne, krucin�l! Akce je zru�ena!</i>
+
+255
+00:21:08,350 --> 00:21:10,601
+Sarah, hl�dej Golicyna. Jime, jdu k tob�.
+
+256
+00:21:10,686 --> 00:21:12,561
+Jim zru�il akci. M�me v�eho nechat.
+
+257
+00:21:12,688 --> 00:21:16,399
+Ne. My ten disk dostaneme. Rozum�?
+
+258
+00:21:17,401 --> 00:21:18,651
+D�lej.
+
+259
+00:21:51,059 --> 00:21:52,476
+Kde jsi?
+
+260
+00:21:52,561 --> 00:21:54,395
+Necel�ch 200 metr� od mostu.
+
+261
+00:21:54,479 --> 00:21:55,813
+<i>Odposlouch�vaj� tuhle frekvenci.</i>
+
+262
+00:21:55,897 --> 00:21:57,815
+Vypni si vys�la�ku.
+
+263
+00:21:57,899 --> 00:22:00,651
+<i>Opakuji, vypni si vys�la�ku.</i>
+
+264
+00:22:26,053 --> 00:22:27,219
+<i>Ethane!</i>
+
+265
+00:22:33,602 --> 00:22:34,894
+<i>Ethane...</i>
+
+266
+00:22:59,961 --> 00:23:01,921
+Sarah, akce zru�ena.
+
+267
+00:23:02,422 --> 00:23:04,090
+Opakuji, zru�ena.
+
+268
+00:23:07,552 --> 00:23:08,761
+Konec!
+
+269
+00:23:09,262 --> 00:23:10,304
+Sly��?
+
+270
+00:23:14,768 --> 00:23:16,602
+Sarah? Panebo�e!
+
+271
+00:23:48,009 --> 00:23:50,428
+Claire. Proboha.
+
+272
+00:23:51,346 --> 00:23:52,513
+Panebo�e.
+
+273
+00:24:40,687 --> 00:24:43,063
+Ne. Sarah.
+
+274
+00:25:38,453 --> 00:25:39,620
+Panebo�e.
+
+275
+00:25:40,622 --> 00:25:42,081
+<i>Satelitn� s� sedm.</i>
+
+276
+00:25:42,541 --> 00:25:45,292
+- St�edn� Evropa, nezabezpe�en� s�.
+<i>- Osobn� k�d?</i>
+
+277
+00:25:46,044 --> 00:25:48,879
+- Bravo echo jedna jedna.
+<i>- P�epojuji.</i>
+
+278
+00:25:50,966 --> 00:25:53,717
+<i>- Tady Kittridge.</i>
+- Zapn�te bezpe�nostn� filtr.
+
+279
+00:25:53,969 --> 00:25:55,719
+<i>Ano, mluv.</i>
+
+280
+00:25:57,138 --> 00:25:59,807
+Tady Ethan Hunt. Jsou mrtv�.
+
+281
+00:26:01,476 --> 00:26:03,227
+<i>Kdo?</i>
+
+282
+00:26:03,311 --> 00:26:05,980
+- Cel� m�j t�m!
+<i>- Kristepane.</i>
+
+283
+00:26:06,481 --> 00:26:08,065
+Golicyn n�m zmizel.
+
+284
+00:26:08,149 --> 00:26:09,650
+Byli na n�s nachystan�.
+
+285
+00:26:09,734 --> 00:26:12,486
+V�d�li, �e p�ijdeme. Disk je fu�.
+
+286
+00:26:12,571 --> 00:26:13,988
+<i>Sledovali t�?</i>
+
+287
+00:26:14,072 --> 00:26:17,658
+Sly�el jste m�? Disk se dostal ven!
+
+288
+00:26:17,742 --> 00:26:19,076
+<i>Ano, ch�pu.</i>
+
+289
+00:26:19,661 --> 00:26:22,329
+<i>Dostaneme t� do bezpe��</i>
+<i>a pak budeme �e�it to ostatn�.</i>
+
+290
+00:26:23,290 --> 00:26:24,832
+<i>Sledoval t� n�kdo?</i>
+
+291
+00:26:27,294 --> 00:26:30,671
+- Mysl�m, �e ne.
+<i>- V� to jist�?</i>
+
+292
+00:26:30,922 --> 00:26:33,299
+<i>- Jsi �ist�?</i>
+- Ano.
+
+293
+00:26:34,634 --> 00:26:38,012
+<i>Dob�e. Za hodinu v lokaci zelen�.</i>
+<i>Budu tam osobn�.</i>
+
+294
+00:26:39,598 --> 00:26:41,682
+- Vy jste v Praze?
+<i>- Za hodinu.</i>
+
+295
+00:27:37,906 --> 00:27:39,073
+Je mi to...
+
+296
+00:27:40,492 --> 00:27:43,744
+Moc m� to mrz�.
+
+297
+00:27:44,871 --> 00:27:48,499
+V�m, co pro tebe Jim znamenal, Ethane,
+
+298
+00:27:48,917 --> 00:27:51,335
+osobn� i profesion�ln�.
+
+299
+00:27:52,545 --> 00:27:53,671
+Jo.
+
+300
+00:27:58,593 --> 00:28:01,679
+Tady je pas a v�za. Obvykl� procedura.
+
+301
+00:28:03,098 --> 00:28:05,891
+P�es Kanadu do USA.
+V Langley t� vyslechnou.
+
+302
+00:28:06,226 --> 00:28:08,185
+D�m pra�sk� policii p�r fale�n�ch stop.
+
+303
+00:28:08,269 --> 00:28:10,396
+P�r podez�el�ch.
+
+304
+00:28:14,943 --> 00:28:15,943
+Poslouch� m�?
+
+305
+00:28:18,238 --> 00:28:19,405
+Jo.
+
+306
+00:28:22,033 --> 00:28:23,951
+Pro dne�ek jsme ztratili u� dost agent�.
+
+307
+00:28:24,786 --> 00:28:27,788
+A moj� vinou.
+
+308
+00:28:29,749 --> 00:28:32,042
+P��li� se obvi�uje�, Ethane.
+
+309
+00:28:34,087 --> 00:28:35,129
+V�dy� jsem zbyl s�m.
+
+310
+00:28:37,048 --> 00:28:39,800
+Aha. Ch�pu.
+
+311
+00:28:45,598 --> 00:28:46,724
+Pro� tam byl jin� t�m?
+
+312
+00:28:48,101 --> 00:28:49,143
+Co�e?
+
+313
+00:28:50,812 --> 00:28:53,480
+Na ambas�d� byl je�t�
+jeden t�m na�ich agent�.
+
+314
+00:28:55,608 --> 00:28:56,817
+Te� ti nerozum�m.
+
+315
+00:29:00,822 --> 00:29:02,906
+Tak se tu rozhl�dn�te.
+
+316
+00:29:03,783 --> 00:29:06,660
+Ti opil� Rusov� na n�b�e��.
+Jsou te� za v�mi napravo.
+
+317
+00:29:08,830 --> 00:29:13,000
+Dvojice, co tan�ila na ambas�d�.
+Te� sed� hned vedle.
+
+318
+00:29:13,084 --> 00:29:15,836
+��n�k, co st�l za Hannah na schodech.
+
+319
+00:29:15,962 --> 00:29:17,504
+Stoj� v obleku p��mo p�ede mnou.
+
+320
+00:29:18,339 --> 00:29:19,757
+Byla tam je�t� jedna parta tajnejch.
+
+321
+00:29:20,925 --> 00:29:23,761
+V�m jde o m�? Pro�?
+
+322
+00:29:26,473 --> 00:29:28,515
+U� asi dva roky
+
+323
+00:29:28,600 --> 00:29:32,352
+n�m n�co hat� ���en� dezinformac�.
+
+324
+00:29:32,479 --> 00:29:34,021
+N�kdo vyn�� ven.
+
+325
+00:29:34,856 --> 00:29:37,357
+Ned�vno jsme na netu rozlu�tili vzkaz
+
+326
+00:29:37,442 --> 00:29:39,777
+od �echa,
+kter�ho zn�me pod jm�nem Max.
+
+327
+00:29:40,028 --> 00:29:42,362
+- Obchodn�k se zbran�mi?
+- Ano.
+
+328
+00:29:43,531 --> 00:29:46,700
+Zd� se, �e Max m�
+dv� jedine�n� schopnosti,
+
+329
+00:29:46,826 --> 00:29:50,996
+dok�e z�stat v utajen�
+a um� korumpovat tajn� agenty.
+
+330
+00:29:51,998 --> 00:29:54,374
+Tentokr�t z�skal n�koho ze CIA.
+
+331
+00:29:55,293 --> 00:29:58,712
+Poda�ilo se mu koupit
+seznam na�ich agent�.
+
+332
+00:29:58,963 --> 00:30:01,298
+On t� operaci ��k� "job 314".
+
+333
+00:30:01,382 --> 00:30:04,051
+Golicyn ten �dajn� seznam
+ukradl pro n�j.
+
+334
+00:30:07,055 --> 00:30:09,181
+Ale seznam nen� prav�. Je to l��ka.
+
+335
+00:30:10,225 --> 00:30:14,228
+Ano. Skute�n� seznam m�me v Langley.
+
+336
+00:30:14,479 --> 00:30:16,480
+Golicyn byl jen volavka. Pat�� k n�m.
+
+337
+00:30:19,400 --> 00:30:23,570
+Tak�e �lo jen o dopaden�
+zkorumpovan�ho agenta.
+
+338
+00:30:29,202 --> 00:30:31,745
+No jo.
+
+339
+00:30:32,330 --> 00:30:33,413
+Jo.
+
+340
+00:30:35,917 --> 00:30:38,252
+A tohohle nen� snadn� odhalit.
+
+341
+00:30:40,505 --> 00:30:42,339
+S�m jsi to �ekl. Ty jedin�
+
+342
+00:30:46,177 --> 00:30:47,678
+jsi p�e�il.
+
+343
+00:30:50,348 --> 00:30:52,558
+N�co ti uk�u, Ethane.
+
+344
+00:30:55,019 --> 00:30:56,603
+Od smrti tv�ho otce
+
+345
+00:30:56,729 --> 00:30:59,857
+je va�e rodinn� farma v konkurzu,
+
+346
+00:30:59,941 --> 00:31:04,278
+ale te� m� najednou
+v bance 120000 dolar�.
+
+347
+00:31:04,362 --> 00:31:05,696
+A p�itom pr� v�daje
+
+348
+00:31:05,780 --> 00:31:07,948
+na nemoc tv�ho otce ten ��et vy�erpaly.
+
+349
+00:31:08,950 --> 00:31:11,535
+Pomal� um�r�n� se v Americe
+
+350
+00:31:11,619 --> 00:31:14,121
+m��e prodra�it.
+
+351
+00:31:16,082 --> 00:31:17,124
+Tak�e
+
+352
+00:31:17,959 --> 00:31:22,379
+odsud ti�e odejdeme
+a nastoup�me do letadla.
+
+353
+00:31:25,091 --> 00:31:27,384
+Ch�pu, �e jsi roz�ilen�.
+
+354
+00:31:27,468 --> 00:31:30,053
+Kittridgei, roz�ilen�ho
+jste m� je�t� nevid�l.
+
+355
+00:31:30,138 --> 00:31:32,890
+Tak dost, Hunte.
+
+356
+00:31:32,974 --> 00:31:35,225
+Upl�cel jsi, lichotil a zab�jel
+
+357
+00:31:35,310 --> 00:31:37,477
+a zneu�il jsi na�i d�v�ru.
+
+358
+00:31:37,562 --> 00:31:39,563
+Chce� obchodovat s ��blem? Tvoje v�c.
+
+359
+00:31:39,647 --> 00:31:41,648
+Ale postar�m se, abys to d�lal v pekle.
+
+360
+00:33:42,854 --> 00:33:45,897
+Sakra, kde jsou ty prachy?
+
+361
+00:34:12,759 --> 00:34:15,302
+<i>Ned�vno jsme na netu rozlu�tili vzkaz</i>
+
+362
+00:34:15,428 --> 00:34:17,637
+<i>od �echa,</i>
+<i>kter�ho zn�me pod jm�nem Max.</i>
+
+363
+00:34:19,223 --> 00:34:21,975
+<i>Poda�ilo se mu koupit</i>
+<i>seznam na�ich agent�.</i>
+
+364
+00:34:22,101 --> 00:34:24,811
+<i>On t� operaci ��k� "job 314".</i>
+
+365
+00:34:25,605 --> 00:34:28,273
+LNTERNETOV� SPOJEN�
+
+366
+00:34:31,319 --> 00:34:32,986
+Job 314.
+
+367
+00:34:34,989 --> 00:34:37,115
+VL�KNO NENALEZENO
+
+368
+00:34:40,661 --> 00:34:43,830
+Job 314. Nic m�...
+
+369
+00:35:00,681 --> 00:35:01,932
+Job...
+
+370
+00:35:04,519 --> 00:35:07,521
+PROHLEDAT USENETOV� SKUPINY
+
+371
+00:35:18,491 --> 00:35:19,991
+BIBLE SVAT�
+
+372
+00:35:21,202 --> 00:35:22,536
+J�b 3:14?
+
+373
+00:35:23,204 --> 00:35:24,621
+J�b 3:14.
+
+374
+00:35:40,304 --> 00:35:43,390
+Spal bych, do�el odpo�inku,
+spolu s kr�li a zemsk�mi r�dci,
+
+375
+00:35:43,516 --> 00:35:45,684
+jim� z toho, co zbudovali,
+zbyly trosky,
+
+376
+00:35:46,561 --> 00:35:48,395
+Ten hajzl.
+
+377
+00:35:53,401 --> 00:35:57,154
+BIBLE - NALEZENO 126 ODKAZ�,
+UP�ESN�TE SKUPINU
+
+378
+00:35:59,866 --> 00:36:01,324
+KNIHA J�BOVA
+
+379
+00:36:01,409 --> 00:36:04,744
+Kapitola 3, ver� 14.
+
+380
+00:36:05,246 --> 00:36:09,082
+Odesilatel: Max@Job 3:14
+P��jemce: Job
+
+381
+00:36:11,752 --> 00:36:14,004
+Maxi, zbo�� je vadn�.
+
+382
+00:36:14,088 --> 00:36:18,258
+Velmi nebezpe�n�. NEPOU��VEJ HO.
+
+383
+00:36:22,263 --> 00:36:24,764
+Spolu s kr�li a zemsk�mi r�dci,
+
+384
+00:36:24,849 --> 00:36:28,101
+jim� z toho, co zbudovali, zbyly trosky.
+
+385
+00:36:28,227 --> 00:36:31,771
+Mus�me se co nejd��v sej�t.
+
+386
+00:36:31,898 --> 00:36:33,440
+Odeslat
+
+387
+00:37:27,662 --> 00:37:28,954
+Ethane,
+
+388
+00:37:31,165 --> 00:37:32,916
+co d�l�?
+
+389
+00:37:34,627 --> 00:37:38,171
+Pot�eboval jsem t� na most�, Ethane,
+
+390
+00:37:40,508 --> 00:37:42,467
+ale tys tam nebyl.
+
+391
+00:37:45,763 --> 00:37:47,138
+<i>Ethane.</i>
+
+392
+00:37:49,016 --> 00:37:50,267
+Ethane.
+
+393
+00:37:51,852 --> 00:37:53,144
+Ethane?
+
+394
+00:37:58,359 --> 00:37:59,693
+Ani hnout.
+
+395
+00:38:01,445 --> 00:38:02,696
+Ethane.
+
+396
+00:38:03,281 --> 00:38:06,199
+Ethane, klid. Uklidni se.
+
+397
+00:38:06,701 --> 00:38:08,159
+To jsem j�, Claire.
+
+398
+00:38:08,953 --> 00:38:11,288
+- Jen klid.
+- Bylas v aut�.
+
+399
+00:38:11,831 --> 00:38:13,540
+Nebyla.
+
+400
+00:38:15,710 --> 00:38:17,127
+Ve vys�la�ce jsem sly�ela...
+
+401
+00:38:17,211 --> 00:38:20,380
+Sklapni, j� t� vid�l. Byla jsi v aut�.
+
+402
+00:38:21,048 --> 00:38:23,049
+Ne, vylezla jsem.
+
+403
+00:38:23,551 --> 00:38:26,386
+B�ela jsem k mostu. ��kal, �e n�kdo...
+
+404
+00:38:26,470 --> 00:38:29,222
+Nekecej. Na most� jsem byl j�.
+
+405
+00:38:29,307 --> 00:38:32,475
+- Nikdo jin�.
+- Co se stalo s Jimem?
+
+406
+00:38:32,560 --> 00:38:34,686
+Probu� se, Claire! Jim je mrtv�!
+
+407
+00:38:34,854 --> 00:38:37,188
+V�ichni jsou mrtv�!
+
+408
+00:38:45,281 --> 00:38:48,283
+- Kdo t� pro m� poslal?
+- Jim je mrtv�?
+
+409
+00:38:48,367 --> 00:38:50,660
+- Kdo t� sem poslal?
+- Jim...
+
+410
+00:38:52,038 --> 00:38:53,121
+Sundej si kab�t.
+
+411
+00:39:01,839 --> 00:39:03,965
+- Kdes byla?
+- J�...
+
+412
+00:39:06,344 --> 00:39:07,886
+Kdes byla?
+
+413
+00:39:09,013 --> 00:39:12,974
+Akce byla zru�ena,
+tak jsem v�eho nechala.
+
+414
+00:39:13,392 --> 00:39:16,019
+Ale od t� doby uplynuly �ty�i hodiny.
+Kdo t� poslal?
+
+415
+00:39:16,354 --> 00:39:18,229
+- Poslali t� pro m�?
+- Ale kdo?
+
+416
+00:39:18,314 --> 00:39:19,981
+Poslali t�?
+
+417
+00:39:20,066 --> 00:39:21,858
+�ekni mi, kdo t� poslal.
+
+418
+00:39:21,942 --> 00:39:24,277
+Nikdo.
+
+419
+00:39:24,362 --> 00:39:26,446
+M�li jsme tu b�t ve �ty�i.
+
+420
+00:39:26,947 --> 00:39:31,242
+Kdy� se akce ru��,
+m�me se tu sej�t ve 4:00.
+
+421
+00:39:31,327 --> 00:39:34,371
+4:00, Ethane.
+
+422
+00:39:34,997 --> 00:39:36,414
+Kdy� se akce ru��.
+
+423
+00:39:38,376 --> 00:39:39,626
+4:00.
+
+424
+00:39:58,896 --> 00:39:59,938
+Odepsali n�s.
+
+425
+00:40:07,071 --> 00:40:09,364
+A mysl� si, �e jsem Jima
+a ostatn� zabil j�.
+
+426
+00:40:16,455 --> 00:40:20,291
+Na ��et m�ch rodi��
+p�ijde sto tis�c dolar�
+
+427
+00:40:20,835 --> 00:40:23,169
+a Kittridge z toho vyvod�,
+�e vyn��m informace
+
+428
+00:40:23,254 --> 00:40:26,506
+p�ekupn�kovi zbran� jm�nem Max,
+
+429
+00:40:26,674 --> 00:40:28,049
+u� dva roky.
+
+430
+00:40:29,593 --> 00:40:31,219
+A �e mu chci prodat ten seznam.
+
+431
+00:40:33,139 --> 00:40:34,264
+Co bude� d�lat?
+
+432
+00:40:35,516 --> 00:40:36,599
+Se�enu mu ho.
+
+433
+00:40:38,352 --> 00:40:40,854
+Ethane, to ned�v� smysl.
+
+434
+00:40:42,731 --> 00:40:43,982
+Ten vyna�e� informac�
+
+435
+00:40:44,984 --> 00:40:46,526
+jedn� pod jm�nem J�b.
+
+436
+00:40:47,528 --> 00:40:49,946
+Nenajdu ho. Ale kdy� bude v�d�t,
+�e m�m ten seznam,
+
+437
+00:40:51,907 --> 00:40:53,032
+najde si m� s�m.
+
+438
+00:40:53,451 --> 00:40:56,286
+P�jdu za Kittridgem a �eknu mu,
+
+439
+00:40:56,370 --> 00:40:58,580
+�e s t�m nem� nic spole�n�ho.
+
+440
+00:40:58,664 --> 00:41:01,040
+Claire, jsi na�ivu,
+
+441
+00:41:02,168 --> 00:41:04,627
+tak�e si bude myslet,
+�e pe�e� se mnou.
+
+442
+00:41:06,964 --> 00:41:08,673
+P�I�LA ZPR�VA
+
+443
+00:41:17,141 --> 00:41:18,391
+Job@Kniha Jobova
+
+444
+00:41:20,060 --> 00:41:21,394
+Zpr�va pro J�ba.
+
+445
+00:41:23,814 --> 00:41:27,025
+A j� na ni odpov�m.
+
+446
+00:41:27,109 --> 00:41:30,320
+Ve 13:00 na rohu ulice Nek�zanka
+a Na P��kop�. Kup krabi�ku Dunhillek
+
+447
+00:41:30,404 --> 00:41:33,156
+a po��dej mu�e, co sed� na lavi�ce,
+a� ti zap�l�.
+
+448
+00:41:50,716 --> 00:41:52,217
+Promi�te.
+
+449
+00:41:53,177 --> 00:41:55,428
+Zap�lil byste mi?
+
+450
+00:42:11,487 --> 00:42:13,613
+Sundejte si �epici, pros�m.
+
+451
+00:42:16,867 --> 00:42:20,078
+- Pro�?
+- Chcete se setkat s Maxem?
+
+452
+00:42:21,163 --> 00:42:22,747
+Tohle je vstupn�.
+
+453
+00:42:33,300 --> 00:42:36,344
+- Myslel jsem, �e Maxe uvid�m.
+- Chyba.
+
+454
+00:42:36,428 --> 00:42:37,971
+Max se nikomu neuk�e.
+
+455
+00:42:39,473 --> 00:42:40,890
+Tak co tu sakra d�l�m?
+
+456
+00:42:42,142 --> 00:42:45,770
+Max si poslechne, co m�te na srdci.
+
+457
+00:42:46,146 --> 00:42:48,815
+S kuklou na hlav� se mluv� dost b�dn�.
+
+458
+00:42:48,941 --> 00:42:51,818
+Kdy� se Maxovi nebude va�e �e� l�bit,
+
+459
+00:42:51,902 --> 00:42:55,321
+vym�n�te kuklu za poh�ebn� rub�.
+
+460
+00:42:57,449 --> 00:42:58,992
+Risknu to.
+
+461
+00:43:04,832 --> 00:43:06,165
+Tak dob�e.
+
+462
+00:43:10,504 --> 00:43:13,965
+Kdo jste a co tu pohled�v�te?
+
+463
+00:43:15,968 --> 00:43:18,177
+Pot�ebuju 150000 dolar�.
+
+464
+00:43:20,180 --> 00:43:21,347
+V�n�?
+
+465
+00:43:26,604 --> 00:43:28,021
+A myslel jste,
+
+466
+00:43:28,147 --> 00:43:30,607
+�e v�m je jen tak d�m?
+
+467
+00:43:32,026 --> 00:43:34,027
+Pro� ne? J�bovi jste dala 125 tis�c.
+
+468
+00:43:36,780 --> 00:43:40,700
+A hned je jasn�, �e nejste J�b.
+
+469
+00:43:43,454 --> 00:43:47,498
+Ten v e-mailech necituje Bibli.
+
+470
+00:43:48,375 --> 00:43:52,795
+A pak ten t�n, agresivn�, ale hrav�.
+
+471
+00:43:52,880 --> 00:43:54,672
+J�b nen� hrav�.
+
+472
+00:43:56,467 --> 00:43:59,719
+Tak�e vy jste tak trochu paradox.
+
+473
+00:44:00,638 --> 00:44:02,805
+- Podle toho.
+- Podle �eho?
+
+474
+00:44:03,557 --> 00:44:05,350
+Podle toho, jestli v�s paradoxy bav�.
+
+475
+00:44:07,686 --> 00:44:10,563
+Je�t� dnes chci 150000 dolar�.
+
+476
+00:44:10,648 --> 00:44:13,191
+Ne. Vylou�eno.
+
+477
+00:44:15,819 --> 00:44:18,738
+J�b v�m prodal bezcenn� disk.
+
+478
+00:44:19,740 --> 00:44:22,492
+Je to podvrh,
+kter� m� pomoci dopadnout �pi�na.
+
+479
+00:44:28,207 --> 00:44:29,916
+A jak to v�te?
+
+480
+00:44:31,919 --> 00:44:34,087
+Jste taky od CIA?
+
+481
+00:44:36,507 --> 00:44:37,757
+Jako J�b?
+
+482
+00:44:42,096 --> 00:44:44,013
+Pt�me se my v�s.
+
+483
+00:44:45,683 --> 00:44:47,558
+Jsem tajn� agent. Ale...
+
+484
+00:44:48,769 --> 00:44:50,269
+Odepsali m�.
+
+485
+00:44:51,939 --> 00:44:53,189
+A pro�?
+
+486
+00:44:53,941 --> 00:44:56,275
+To bych se r�d dozv�d�l od J�ba.
+
+487
+00:44:58,195 --> 00:45:02,073
+Nezn�m J�ba o nic v�c, ne� on mne.
+
+488
+00:45:02,282 --> 00:45:03,616
+Ale i tak
+
+489
+00:45:04,034 --> 00:45:06,202
+byste n�s mohla sezn�mit.
+
+490
+00:45:06,286 --> 00:45:07,537
+Pro� bych to d�lala?
+
+491
+00:45:07,621 --> 00:45:09,872
+Proto�e m��u sehnat skute�n� seznam.
+
+492
+00:45:10,124 --> 00:45:11,958
+Ten v� je k ni�emu,
+
+493
+00:45:12,042 --> 00:45:13,710
+a nav�c je na n�m mikro�ip,
+
+494
+00:45:13,794 --> 00:45:15,461
+podle kter�ho v�s hned najdou.
+
+495
+00:45:21,218 --> 00:45:22,260
+Dejte ho do po��ta�e.
+
+496
+00:45:22,970 --> 00:45:24,971
+Za 30 vte�in a� 10 minut
+
+497
+00:45:25,055 --> 00:45:28,099
+p�ihopsaj� kluci z Langley.
+
+498
+00:45:31,770 --> 00:45:33,813
+To se snadno �ekne,
+�e je disk bezcenn�,
+
+499
+00:45:33,939 --> 00:45:36,315
+kdy� se na n�j nesm�me pod�vat
+
+500
+00:45:36,442 --> 00:45:39,861
+a p�esv�d�it se.
+Pro� bych v�m m�la v��it?
+
+501
+00:45:41,029 --> 00:45:44,157
+Tak to zkuste. Ale
+
+502
+00:45:45,117 --> 00:45:47,326
+nejd��v si pros�m zabalte v�ci.
+
+503
+00:46:03,177 --> 00:46:05,636
+26, 27. Zat�m dobr�.
+
+504
+00:46:06,346 --> 00:46:08,389
+Pro v�s to moc dobr� nen�, p��teli.
+
+505
+00:46:08,515 --> 00:46:10,683
+Mysl�m, �e m�te tak dv� minuty.
+
+506
+00:46:43,550 --> 00:46:44,926
+32 a 33.
+
+507
+00:46:45,052 --> 00:46:48,221
+To nemus� nic znamenat.
+T�eba se jen zah��v� harddisk.
+
+508
+00:46:55,896 --> 00:46:57,230
+44 a 45.
+
+509
+00:47:12,746 --> 00:47:13,871
+Te�.
+
+510
+00:47:45,988 --> 00:47:48,072
+Zmizel n�m, Barnesi.
+
+511
+00:47:49,324 --> 00:47:51,450
+Dokud se nebude cht�t objevit.
+
+512
+00:47:51,577 --> 00:47:54,412
+M��eme ��ct n�komu z ambas�dy.
+A� ho hled� m�stn� policie.
+
+513
+00:47:54,496 --> 00:47:58,082
+- Znemo�n�me mu cestov�n�.
+- A jak, Barnesi?
+
+514
+00:47:58,166 --> 00:48:00,167
+Po�leme n�koho na leti�t�?
+
+515
+00:48:00,627 --> 00:48:02,461
+V�, kolik m� Hunt toto�nost�?
+
+516
+00:48:02,588 --> 00:48:04,422
+A kolikr�t u� pro�el celn� kontrolou
+
+517
+00:48:04,506 --> 00:48:06,424
+v r�zn�ch zem�ch?
+
+518
+00:48:06,800 --> 00:48:08,634
+Tihle chlapi um�j� b�t neviditeln�.
+
+519
+00:48:09,928 --> 00:48:11,721
+V�dy� jsme je to nau�ili.
+
+520
+00:48:11,805 --> 00:48:13,139
+Tak co ud�l�me?
+
+521
+00:48:15,434 --> 00:48:18,603
+Nebudeme ho honit. To je ztr�ta �asu.
+Mus� p�ij�t s�m.
+
+522
+00:48:19,271 --> 00:48:21,147
+Ka�d� m� sv� slab� m�sto.
+
+523
+00:48:21,273 --> 00:48:24,150
+Mus� naj�t n�co, na �em mu z�le��,
+
+524
+00:48:24,276 --> 00:48:25,860
+a pak to zm��knout.
+
+525
+00:48:31,158 --> 00:48:34,869
+Gunther u� mi nikdy nep�j�� bejv�k.
+
+526
+00:48:36,830 --> 00:48:40,499
+Promi�, �e jsem ti nev��ila, chlap�e.
+Jsi solidn�.
+
+527
+00:48:40,918 --> 00:48:42,001
+D�ky, Maxi.
+
+528
+00:48:43,337 --> 00:48:44,587
+Nebo Maxine?
+
+529
+00:48:46,673 --> 00:48:48,215
+Nemus�m v�m ��kat,
+
+530
+00:48:48,342 --> 00:48:51,052
+jak p��jemn� je v m� profesi anonymita.
+
+531
+00:48:52,846 --> 00:48:54,847
+Je jako tepl� pe�ina.
+
+532
+00:48:58,852 --> 00:49:01,896
+M� jedn�n� s J�bem
+se up�nalo k tomu disku.
+
+533
+00:49:02,022 --> 00:49:04,357
+Je to podvrh, tak�e jedn�n� zkrachovalo.
+
+534
+00:49:06,526 --> 00:49:07,777
+A kolik jste mu sl�bila?
+
+535
+00:49:08,695 --> 00:49:10,071
+6 milion�.
+
+536
+00:49:11,406 --> 00:49:14,492
+D�m v�m je,
+ale chci kompletn� seznam,
+
+537
+00:49:14,576 --> 00:49:15,993
+nejen v�chodn� Evropu.
+
+538
+00:49:16,078 --> 00:49:18,120
+Sh�n�t to po kousc�ch
+je moc nebezpe�n�.
+
+539
+00:49:18,205 --> 00:49:20,581
+- Chci seznam v�ech tajn�ch agent�.
+- 10 milion�.
+
+540
+00:49:21,708 --> 00:49:24,043
+V americk�ch dluhopisech
+
+541
+00:49:24,127 --> 00:49:26,545
+na dr�itele, i s kup�ny.
+
+542
+00:49:27,381 --> 00:49:28,589
+A je�t� n�co.
+
+543
+00:49:30,550 --> 00:49:34,929
+Chci va�i z�ruku,
+�e u p�ed�n� bude i J�b.
+
+544
+00:49:48,151 --> 00:49:49,235
+Aha.
+
+545
+00:49:51,738 --> 00:49:53,114
+Max se s tebou domluvil?
+
+546
+00:49:54,741 --> 00:49:57,576
+J� d�m Maxovi seznam,
+Max mi d� J�ba.
+
+547
+00:50:01,248 --> 00:50:05,292
+K Berett� m�me 75 n�bojnicov�ch p�s�,
+ale k SIG Sauerovi jen dvacet.
+
+548
+00:50:05,794 --> 00:50:08,170
+M�me jedny br�le s monitorem,
+
+549
+00:50:09,256 --> 00:50:10,756
+spoustu pas� a...
+
+550
+00:50:16,179 --> 00:50:17,346
+Co je?
+
+551
+00:50:18,306 --> 00:50:20,266
+�ekl jsi to s�m.
+
+552
+00:50:20,600 --> 00:50:22,435
+Kdy� nejsem mrtv�, pe�u s tebou.
+
+553
+00:50:24,438 --> 00:50:25,604
+Fakt?
+
+554
+00:50:26,523 --> 00:50:28,107
+Jim byl m�j mu�.
+
+555
+00:50:28,191 --> 00:50:30,484
+Chci chytit gr�zla, co to sp�skal.
+
+556
+00:50:32,946 --> 00:50:34,113
+Sami to nezvl�dneme.
+
+557
+00:50:34,948 --> 00:50:37,450
+Nem�me moc �asu.
+Vyu�ijeme m�stn� zdroje.
+
+558
+00:50:38,285 --> 00:50:39,285
+Ale jak�?
+
+559
+00:50:40,120 --> 00:50:41,579
+ZADEJ HESLO
+ZADEJ KATEGORII
+
+560
+00:50:41,663 --> 00:50:42,830
+ODEPSAN� AGENTI
+
+561
+00:51:13,403 --> 00:51:14,820
+Jednoduch� hra
+
+562
+00:51:15,655 --> 00:51:17,156
+pro �ty�i hr��e.
+
+563
+00:51:17,657 --> 00:51:19,492
+Jeden n�s dostane dovnit�
+
+564
+00:51:19,659 --> 00:51:21,410
+a hacker �lohne pen�enku.
+
+565
+00:51:22,662 --> 00:51:23,704
+Banka?
+
+566
+00:51:24,664 --> 00:51:25,831
+Bezpe�nostn� centr�la.
+
+567
+00:51:27,667 --> 00:51:28,918
+Kde to je?
+
+568
+00:51:29,586 --> 00:51:30,711
+V Langley.
+
+569
+00:51:33,882 --> 00:51:34,924
+V Langley?
+
+570
+00:51:36,384 --> 00:51:37,635
+Ve Virginii?
+
+571
+00:51:39,346 --> 00:51:41,847
+�st�ed� CIA?
+
+572
+00:51:43,683 --> 00:51:44,725
+To mysl� v�n�?
+
+573
+00:51:45,852 --> 00:51:46,894
+Nikdy ne�ertuje.
+
+574
+00:51:49,231 --> 00:51:52,942
+Pro� rovnou nevyloup�me Fort Knox?
+
+575
+00:51:53,110 --> 00:51:55,861
+S vrtuln�kem prol�tnu vestibul
+
+576
+00:51:55,946 --> 00:51:57,655
+a p�istanu hned vedle sejfu.
+
+577
+00:51:57,739 --> 00:52:01,450
+To by bylo mnohem snaz��
+ne� proniknout do �st�ed� CIA.
+
+578
+00:52:01,535 --> 00:52:02,743
+Co odtamtud chceme st�hnout?
+
+579
+00:52:03,662 --> 00:52:05,454
+- Informaci.
+- Jakou?
+
+580
+00:52:05,831 --> 00:52:06,997
+Lukrativn�.
+
+581
+00:52:08,041 --> 00:52:09,500
+Platba hned po dod�n�.
+
+582
+00:52:12,254 --> 00:52:13,295
+J� nev�m.
+
+583
+00:52:14,673 --> 00:52:15,923
+Fakt nev�m.
+
+584
+00:52:18,885 --> 00:52:21,095
+�e by pov�sti
+o Lutheru Stickellovi p�eh�n�ly?
+
+585
+00:52:22,514 --> 00:52:24,348
+Jak ti to ��kali? Internetov� kovboj?
+
+586
+00:52:24,808 --> 00:52:26,100
+Virolog?
+
+587
+00:52:27,477 --> 00:52:30,229
+Jedin� hacker, kter� pronikl
+do centr�ln� datab�ze NATO.
+
+588
+00:52:30,397 --> 00:52:33,732
+Neexistuje jedin� d�kaz,
+�e jsem to ud�lal j�.
+
+589
+00:52:35,235 --> 00:52:36,652
+Ale byla
+
+590
+00:52:37,487 --> 00:52:39,780
+to prvot��dn� pr�ce.
+
+591
+00:52:43,743 --> 00:52:45,035
+Nev�, o co p�ich�z�.
+
+592
+00:52:46,788 --> 00:52:50,708
+- Tohle je Mount Everest hacker�.
+- To se ned�.
+
+593
+00:52:52,002 --> 00:52:55,921
+I s nejmodern�j��m de�ifrov�n�m,
+p��stupem do Cray a STU-III...
+
+594
+00:52:56,006 --> 00:52:58,007
+Krieger by to sehnal, ne?
+
+595
+00:52:59,885 --> 00:53:01,260
+Chvilku to potrv�.
+
+596
+00:53:01,344 --> 00:53:02,636
+Co to je chvilka?
+
+597
+00:53:03,513 --> 00:53:04,889
+Claire mi o tob� �ekla n�co jin�ho.
+
+598
+00:53:05,724 --> 00:53:07,725
+Laptopy posledn� generace.
+
+599
+00:53:09,394 --> 00:53:14,231
+Prototypy 686 s �ipem RISC,
+co� je um�l� inteligence.
+
+600
+00:53:15,108 --> 00:53:16,358
+24 hodin.
+
+601
+00:53:18,945 --> 00:53:22,573
+A po t�hle fu�ce si je budu moct nechat.
+
+602
+00:53:23,158 --> 00:53:25,284
+Luthere, u� se nem� na co vymlouvat.
+
+603
+00:53:30,957 --> 00:53:34,543
+Zvenku se tam nedostanu.
+
+604
+00:53:35,754 --> 00:53:38,255
+Jejich hlavn� po��ta� nem� p�ipojen�.
+
+605
+00:53:39,216 --> 00:53:40,674
+Je �pln� izolovan�,
+
+606
+00:53:41,843 --> 00:53:45,471
+tak�e bych musel b�t
+u termin�lu osobn�.
+
+607
+00:53:46,890 --> 00:53:48,307
+Klid, Luthere.
+
+608
+00:53:48,892 --> 00:53:50,267
+Je to je�t� mnohem hor��.
+
+609
+00:53:51,686 --> 00:53:53,812
+Termin�l je v nep��stupn�
+opevn�n� m�stnosti.
+
+610
+00:53:54,564 --> 00:53:56,273
+<i>Aby se n�kdo dostal dovnit�,</i>
+
+611
+00:53:56,358 --> 00:53:58,817
+<i>mus� proj�t �adou</i>
+<i>bezpe�nostn�ch kontrol.</i>
+
+612
+00:53:58,902 --> 00:54:00,277
+William Donloe.
+
+613
+00:54:01,154 --> 00:54:05,407
+<i>Nejd��v hlasov� identifikace</i>
+<i>a �estim�stn� k�d.</i>
+
+614
+00:54:08,995 --> 00:54:10,579
+<i>T�m se dostane jen do vn�j�� m�stnosti.</i>
+
+615
+00:54:12,457 --> 00:54:14,416
+<i>D�l ho pust� po identifikaci o�n� s�tnice.</i>
+
+616
+00:54:18,630 --> 00:54:21,298
+<i>A protiopat�en� po vniknut�</i>
+
+617
+00:54:21,383 --> 00:54:24,551
+<i>lze deaktivovat jen elektronickou kartou,</i>
+
+618
+00:54:25,303 --> 00:54:26,345
+kterou nebudeme m�t.
+
+619
+00:54:28,848 --> 00:54:31,141
+<i>Vnit�ek t� m�stnosti</i>
+
+620
+00:54:31,351 --> 00:54:33,018
+<i>hl�daj� t�i syst�my,</i>
+
+621
+00:54:33,103 --> 00:54:35,938
+<i>pokud tam nen� technik.</i>
+
+622
+00:54:36,398 --> 00:54:40,526
+<i>Prvn� reaguje na ka�d� hlasit�j�� zvuk.</i>
+
+623
+00:54:42,320 --> 00:54:45,447
+<i>Druh� syst�m reaguje</i>
+<i>na zv��en� teploty.</i>
+
+624
+00:54:45,532 --> 00:54:48,242
+<i>Spust� ho i teplota t�la</i>
+<i>neopr�vn�n�ho n�v�t�vn�ka,</i>
+
+625
+00:54:48,326 --> 00:54:51,370
+<i>kdy� zv��� teplotu v m�stnosti</i>
+<i>o jedin� stupe�.</i>
+
+626
+00:54:56,751 --> 00:54:59,878
+<i>Teplotu reguluje klimatizace</i>
+
+627
+00:54:59,963 --> 00:55:03,090
+<i>s otvorem skoro 1,94 metr� nad</i>
+<i>podlahou.</i>
+
+628
+00:55:05,885 --> 00:55:08,387
+<i>Ventilaci hl�d� laserov� s�.</i>
+
+629
+00:55:11,808 --> 00:55:15,060
+<i>T�et� syst�m je na podlaze</i>
+<i>a reaguje na tlak.</i>
+
+630
+00:55:16,313 --> 00:55:19,273
+<i>Jakmile na podlahu cokoli zatla��,</i>
+<i>spust� se alarm.</i>
+
+631
+00:55:20,817 --> 00:55:22,985
+<i>Spu�t�n� jednoho z alarm�</i>
+
+632
+00:55:23,069 --> 00:55:25,612
+<i>aktivuje automatick�</i>
+<i>uzam�en� m�stnosti.</i>
+
+633
+00:55:26,948 --> 00:55:29,825
+<i>A v��te mi, p�nov�,</i>
+
+634
+00:55:30,368 --> 00:55:33,454
+<i>�e v�echny t�i syst�my</i>
+<i>jsou absolutn� �pi�ka.</i>
+
+635
+00:55:37,917 --> 00:55:39,710
+A ty mysl�, �e to zvl�dneme?
+
+636
+00:55:43,673 --> 00:55:44,798
+Jo.
+
+637
+00:56:06,154 --> 00:56:08,906
+�ST�ED� CIA
+
+638
+00:56:18,041 --> 00:56:20,584
+Sektory 3, 7 a 12 hl�s� alarm.
+
+639
+00:56:20,668 --> 00:56:23,420
+<i>N�m taky.</i>
+<i>Ve kter�m sektoru je klimatizace?</i>
+
+640
+00:56:23,505 --> 00:56:26,048
+<i>Sektor 21. Ale tam alarm nen�.</i>
+
+641
+00:56:26,132 --> 00:56:27,925
+<i>Mus�m to tam j�t vypnout.</i>
+
+642
+00:56:28,009 --> 00:56:29,718
+<i>Lituji, ale nikdo nep�jde do sektoru,</i>
+
+643
+00:56:29,803 --> 00:56:30,844
+<i>kter� nehl�s� alarm.</i>
+
+644
+00:56:30,929 --> 00:56:32,763
+<i>Chcete, aby se ohe� roz���il</i>
+<i>po cel� budov�?</i>
+
+645
+00:56:32,847 --> 00:56:35,474
+<i>Nikdo nep�jde do sektoru,</i>
+<i>kde se nespustil alarm.</i>
+
+646
+00:56:35,558 --> 00:56:38,143
+<i>- A v jednadvac�tce se nespustil.</i>
+<i>- Moment.</i>
+
+647
+00:56:42,816 --> 00:56:44,233
+<i>U� se tam spustil. Jdeme.</i>
+
+648
+00:56:44,317 --> 00:56:45,651
+Pohyb.
+
+649
+00:56:57,831 --> 00:57:00,582
+- Nepot�ebujete n�co?
+- Ne, d�ky.
+
+650
+00:57:03,503 --> 00:57:05,170
+Do jednadvac�tky se jde tudy.
+
+651
+00:57:09,634 --> 00:57:11,510
+SERVIS
+
+652
+00:57:12,429 --> 00:57:13,512
+D�l� n�bor.
+
+653
+00:57:13,596 --> 00:57:16,014
+- Ale pro�?
+- Aby p�e�il.
+
+654
+00:57:16,433 --> 00:57:19,351
+Kdepak. Je iniciativn�.
+P�ejde do proti�toku.
+
+655
+00:57:19,477 --> 00:57:22,771
+Ot�zka zn�: "Co chce a kde to dostane?"
+
+656
+00:57:22,856 --> 00:57:25,357
+Barnesi, co to je sakra za hluk?
+
+657
+00:57:26,651 --> 00:57:27,776
+Po��rn� alarm, Gene.
+
+658
+00:57:31,197 --> 00:57:32,614
+M�me snad evakuovat?
+
+659
+00:58:20,580 --> 00:58:23,540
+Byli jste t�i. Kde m�te par��ka?
+
+660
+00:58:25,376 --> 00:58:27,920
+Kriegere! ��dn� mrtvoly.
+
+661
+00:58:28,713 --> 00:58:29,755
+Uvid�me.
+
+662
+01:00:03,349 --> 01:00:04,433
+Ahojky.
+
+663
+01:01:05,328 --> 01:01:09,665
+Raz, dva, t�i.
+
+664
+01:01:10,458 --> 01:01:12,668
+Toust. Toust.
+
+665
+01:01:13,753 --> 01:01:15,837
+<i>- Sly��m t�.</i>
+- Prima.
+
+666
+01:01:17,757 --> 01:01:19,383
+Jdu tam, Luthere.
+
+667
+01:01:19,467 --> 01:01:22,803
+<i>Tak co, vzty�� vlajku na Everestu?</i>
+
+668
+01:01:31,104 --> 01:01:32,229
+Sakra.
+
+669
+01:01:32,313 --> 01:01:36,149
+Kriegere, od te� u� absolutn� ticho.
+
+670
+01:02:52,643 --> 01:02:54,144
+Jde k tob�.
+
+671
+01:02:58,399 --> 01:03:00,108
+Je v koridoru pro hlasovou identifikaci.
+
+672
+01:03:00,443 --> 01:03:01,485
+William Donloe.
+
+673
+01:03:17,668 --> 01:03:18,794
+Vn�j�� m�stnost.
+
+674
+01:03:23,633 --> 01:03:25,383
+Vch�z� dovnit�.
+
+675
+01:03:31,182 --> 01:03:32,265
+No tak, pohni.
+
+676
+01:05:01,230 --> 01:05:02,647
+Je na z�chod�.
+
+677
+01:06:13,469 --> 01:06:15,303
+PRO P��STUP DO TERMIN�LU
+ZADEJ JM�NO - HESLO
+
+678
+01:06:15,388 --> 01:06:18,390
+DONLOE, WILLIAM
+
+679
+01:06:20,351 --> 01:06:22,727
+A-W-9
+
+680
+01:06:22,853 --> 01:06:24,896
+<i>6-B-6.</i>
+
+681
+01:06:39,745 --> 01:06:41,079
+SEZNAM TAJN�CH AGENT�
+
+682
+01:06:44,542 --> 01:06:46,251
+Kristepane.
+
+683
+01:06:46,836 --> 01:06:48,211
+<i>V�ichni tajn� agenti CIA.</i>
+
+684
+01:07:50,149 --> 01:07:54,819
+STAHUJI SEZNAM TAJN�CH AGENT�
+
+685
+01:08:06,665 --> 01:08:08,166
+STAHOV�N� DOKON�ENO
+
+686
+01:09:45,764 --> 01:09:47,140
+Je uvnit�.
+
+687
+01:10:00,696 --> 01:10:01,946
+Hluk je ve �lut�m p�smu.
+
+688
+01:10:05,117 --> 01:10:06,159
+V �erven�m.
+
+689
+01:10:17,671 --> 01:10:18,796
+Rychle.
+
+690
+01:10:20,674 --> 01:10:24,302
+Toust.
+
+691
+01:10:28,224 --> 01:10:29,307
+<i>Merci.</i>
+
+692
+01:11:20,859 --> 01:11:25,238
+P�IHL��EN� - STA�EN� SOUBORU
+9:58
+
+693
+01:11:27,199 --> 01:11:28,449
+Panebo�e.
+
+694
+01:11:39,962 --> 01:11:41,004
+Jo.
+
+695
+01:11:44,341 --> 01:11:45,842
+To je pro v�s.
+
+696
+01:11:47,803 --> 01:11:48,928
+Kittridge.
+
+697
+01:12:12,202 --> 01:12:16,539
+V�me o tom jen my dva, jasn�?
+
+698
+01:12:16,623 --> 01:12:18,249
+Nikdy se to nestalo.
+
+699
+01:12:18,334 --> 01:12:19,834
+A co bude s n�m?
+
+700
+01:12:20,210 --> 01:12:23,755
+Okam�it� ho p�esu�te na Alja�ku.
+Bude tam hl�dat radar.
+
+701
+01:12:23,839 --> 01:12:25,465
+�aty mu po�lete po�tou.
+
+702
+01:12:34,600 --> 01:12:38,186
+LOND�N
+
+703
+01:13:04,546 --> 01:13:05,755
+Kontaktuje� kupce?
+
+704
+01:13:08,050 --> 01:13:09,217
+Ethane.
+
+705
+01:13:13,806 --> 01:13:15,223
+Maxi, s velmo�i, co m�li plno zlata,
+
+706
+01:13:15,307 --> 01:13:16,432
+Ethane.
+
+707
+01:13:16,517 --> 01:13:18,726
+A domy si naplnili st��brem
+
+708
+01:13:23,232 --> 01:13:24,315
+Ethane.
+
+709
+01:13:27,236 --> 01:13:29,362
+Pardon. Pane Hunte.
+
+710
+01:13:39,373 --> 01:13:41,290
+Beze m� na ��dn� setk�n� nep�jde�.
+
+711
+01:13:43,961 --> 01:13:46,587
+Kontaktn� osoba
+chce z�stat v anonymit�.
+
+712
+01:13:49,133 --> 01:13:52,885
+Nem��e� mi nic na�izovat.
+
+713
+01:13:53,220 --> 01:13:55,513
+Zvl᚝, kdy� m�m tohle.
+
+714
+01:13:55,973 --> 01:13:57,974
+- Kriegere...
+<i>- Sklapni.</i>
+
+715
+01:14:03,647 --> 01:14:04,689
+Mysl� tohle?
+
+716
+01:14:05,774 --> 01:14:06,983
+Tam ten seznam nen�.
+
+717
+01:14:07,651 --> 01:14:10,361
+Copak? Ty nezn� tenhle trik?
+
+718
+01:14:18,620 --> 01:14:20,121
+Kampak zmizel?
+
+719
+01:14:24,251 --> 01:14:25,334
+Je pry�.
+
+720
+01:14:26,795 --> 01:14:27,920
+Co je?
+
+721
+01:14:28,630 --> 01:14:29,714
+<i>- Ty.</i>
+- Ne.
+
+722
+01:14:29,798 --> 01:14:30,840
+Ne?
+
+723
+01:14:37,598 --> 01:14:38,973
+Daleko nebyl.
+
+724
+01:14:43,312 --> 01:14:45,771
+V�m, co si mysl�, Kriegere.
+
+725
+01:14:45,856 --> 01:14:47,732
+��k� si: "V t� po��ta�ov� m�stnosti
+
+726
+01:14:47,816 --> 01:14:50,318
+"jsem byl naho�e a on byl dole.
+
+727
+01:14:53,030 --> 01:14:54,739
+"A nesl
+
+728
+01:14:55,824 --> 01:14:58,117
+"dva disky."
+
+729
+01:15:00,412 --> 01:15:02,455
+Tyhle v�ci se t�ko sleduj�.
+
+730
+01:15:03,707 --> 01:15:04,749
+Kde je?
+
+731
+01:15:20,015 --> 01:15:22,475
+Mysl�, �e bych ti dal skute�n� seznam?
+
+732
+01:15:24,478 --> 01:15:27,021
+Zkus mi od�arovat prachy a pod��znu t�.
+
+733
+01:15:41,912 --> 01:15:43,913
+BIBLE SVAT�
+
+734
+01:15:46,458 --> 01:15:49,252
+SPOLE�NOST GIDEON JI V�NOVALA
+HOTELU DRAKE, CHICAGO
+
+735
+01:15:54,925 --> 01:15:57,426
+<i>Zau�oval jsi nov� agenty?</i>
+<i>Pohodi�ka, co?</i>
+
+736
+01:15:57,511 --> 01:15:59,762
+<i>Kde to bylo tentokr�t? Plaza?</i>
+
+737
+01:15:59,846 --> 01:16:01,180
+<i>Hotel Drake v Chicagu.</i>
+
+738
+01:16:04,101 --> 01:16:05,643
+To m� mrz�.
+
+739
+01:16:12,192 --> 01:16:13,985
+Oslovit Kriegera byl m�j n�pad.
+
+740
+01:16:20,784 --> 01:16:22,410
+Promi�, Ethane.
+
+741
+01:16:27,666 --> 01:16:29,667
+Ud�lali jsme, co bylo t�eba.
+
+742
+01:16:31,503 --> 01:16:34,005
+Zkus�m se trochu prospat.
+
+743
+01:17:13,003 --> 01:17:14,295
+Krieger m�l prav� disk?
+
+744
+01:17:24,640 --> 01:17:26,015
+Nech si ho u sebe.
+
+745
+01:17:26,099 --> 01:17:27,183
+Pro� mi tak v���?
+
+746
+01:17:27,809 --> 01:17:29,602
+Kdybys v�d�l, do �eho jdeme,
+
+747
+01:17:29,686 --> 01:17:31,020
+nikdy bys to neud�lal.
+
+748
+01:17:36,943 --> 01:17:39,028
+Nepust�m ho z ruky.
+
+749
+01:17:40,447 --> 01:17:42,948
+P�esn� tak. To bude tv�j �kol
+z�tra ve vlaku.
+
+750
+01:17:44,117 --> 01:17:45,993
+Ten seznam nesm� nikdo vid�t.
+
+751
+01:17:53,543 --> 01:17:54,752
+Jak� to m� dosah?
+
+752
+01:17:56,254 --> 01:17:59,048
+T�ko ��ct, budu muset b�t bl�zko.
+
+753
+01:18:00,842 --> 01:18:02,259
+Ethane, mus�me si promluvit.
+
+754
+01:18:03,887 --> 01:18:07,306
+<i>V neobvykl�m m�st�,</i>
+<i>na farm� v americk�m</i>
+
+755
+01:18:07,391 --> 01:18:08,933
+<i>st�t� Wisconsin,</i>
+
+756
+01:18:09,017 --> 01:18:11,018
+<i>na�li feder�ln� agenti</i>
+
+757
+01:18:11,103 --> 01:18:13,604
+<i>mozek mezin�rodn� s�t� pa�er�k� drog.</i>
+
+758
+01:18:14,147 --> 01:18:17,316
+<i>Celou organizaci ��dila</i>
+<i>Margaret Ethan Huntov�</i>
+
+759
+01:18:17,401 --> 01:18:19,652
+<i>a jej� �vagr Donald Hunt.</i>
+
+760
+01:18:19,736 --> 01:18:22,988
+<i>Dnes r�no je zatkli policist�</i>
+<i>z protidrogov�ho,</i>
+
+761
+01:18:23,073 --> 01:18:24,657
+<i>po obrovsk�m z�tahu,</i>
+
+762
+01:18:24,741 --> 01:18:27,660
+<i>jeho� z�m�rem bylo odhalit</i>
+<i>nez�konnou v�robu</i>
+
+763
+01:18:27,744 --> 01:18:30,413
+<i>drogy zvan� metkatinon nebo quat.</i>
+
+764
+01:18:30,497 --> 01:18:32,998
+<i>Je to z�ejm� p��pad naivn�</i>
+<i>a osam�l� vdovy...</i>
+
+765
+01:18:33,083 --> 01:18:41,083
+Kittridge.
+
+766
+01:19:04,740 --> 01:19:06,824
+Vid�m, �e ses stavil u na�ich.
+
+767
+01:19:07,576 --> 01:19:09,201
+To je Hunt. Zjist�te, odkud vol�.
+
+768
+01:19:10,537 --> 01:19:13,581
+Vid�m, �e ses d�val na telku.
+
+769
+01:19:15,208 --> 01:19:19,003
+Nasadit m�m� klepeta a zav��t ji
+do lochu, to nen� moc hezk�.
+
+770
+01:19:19,254 --> 01:19:21,046
+- Je v Anglii.
+- Zavolejte Ml5.
+
+771
+01:19:21,840 --> 01:19:23,257
+Ethane, m� moje slovo,
+
+772
+01:19:23,341 --> 01:19:26,802
+�e jakmile p�ijede�,
+
+773
+01:19:26,887 --> 01:19:30,347
+zprost�me tvoji rodinu
+t�ch nesmysln�ch obvin�n�
+
+774
+01:19:30,432 --> 01:19:33,267
+a vyma�eme jim je z trestn�ho rejst��ku.
+
+775
+01:19:33,351 --> 01:19:35,770
+Kdy� sem p�ijede�,
+
+776
+01:19:35,854 --> 01:19:39,190
+<i>m��eme ti i sn�it postih.</i>
+
+777
+01:19:41,193 --> 01:19:42,943
+M��u se na n�co zeptat?
+
+778
+01:19:44,696 --> 01:19:46,071
+Jist�, Ethane.
+
+779
+01:19:46,448 --> 01:19:48,073
+M� p�ed sebou �lov�ka,
+
+780
+01:19:49,534 --> 01:19:51,702
+<i>kter� rozdrtil, ubodal,</i>
+
+781
+01:19:52,245 --> 01:19:54,747
+zast�elil a nechal vybuchnout
+
+782
+01:19:55,415 --> 01:19:58,292
+<i>p�t �len� sv�ho t�mu.</i>
+
+783
+01:19:59,711 --> 01:20:01,796
+Mysl�, �e s n�m n�jak pohne,
+
+784
+01:20:01,880 --> 01:20:05,049
+kdy� po�ene� mamku a strejdu Donalda
+p�ed okresn� soud?
+
+785
+01:20:05,133 --> 01:20:08,219
+<i>Nev�m, Ethane. To mi pov�z ty.</i>
+
+786
+01:20:11,473 --> 01:20:12,765
+Je pry�.
+
+787
+01:20:14,434 --> 01:20:15,935
+Chyb�ly n�m t�i vte�iny.
+
+788
+01:20:16,061 --> 01:20:18,646
+Cht�l, abychom v�d�li, �e je v Lond�n�.
+
+789
+01:20:32,327 --> 01:20:33,911
+Tob� �lov�k sotva sta��.
+
+790
+01:20:43,004 --> 01:20:45,881
+Druh� den jsem se sotva
+doplazil do toho bytu.
+
+791
+01:20:45,966 --> 01:20:47,174
+Asi jsme se minuli.
+
+792
+01:20:47,300 --> 01:20:50,135
+Ale zkontroloval jsem
+va�e fale�n� identity.
+
+793
+01:20:50,387 --> 01:20:51,929
+A chytil jsi na�i stopu ve St�tech.
+
+794
+01:20:52,305 --> 01:20:55,307
+Ale tam u� bych v�s nestihl naj�t.
+Hned jste se vypa�ili.
+
+795
+01:20:55,642 --> 01:20:58,143
+Celnice v mal�ch zem�ch
+si nevedou po��ta�ov� z�znamy.
+
+796
+01:20:58,436 --> 01:20:59,770
+Tak jsem si hl�dal Evropu.
+
+797
+01:21:00,564 --> 01:21:03,649
+A jak ses objevil v Anglii, byla to hra�ka.
+
+798
+01:21:04,442 --> 01:21:06,527
+V�d�ls, �e m�m r�d byty
+v Liverpool Street.
+
+799
+01:21:06,611 --> 01:21:08,320
+V�ak jsem ti je s�m uk�zal.
+
+800
+01:21:10,448 --> 01:21:11,490
+J� v�m.
+
+801
+01:21:14,286 --> 01:21:16,912
+Jime, hazarduje� se zdrav�m.
+
+802
+01:21:16,997 --> 01:21:19,290
+M�l bys j�t k doktoru.
+Ani nem��e� rovn� sed�t.
+
+803
+01:21:19,416 --> 01:21:20,916
+To m��u.
+
+804
+01:21:21,585 --> 01:21:23,168
+L kdy� ne moc dob�e.
+
+805
+01:21:24,004 --> 01:21:26,755
+Sedni si. Na tom nez�le��.
+
+806
+01:21:28,466 --> 01:21:29,592
+Ethane,
+
+807
+01:21:31,970 --> 01:21:34,680
+vid�l jsem, kdo m� post�elil.
+Vid�l jsem toho zr�dce.
+
+808
+01:21:36,808 --> 01:21:39,852
+- Byl to Kittridge.
+- Kittridge.
+
+809
+01:21:40,812 --> 01:21:42,438
+Kittridge, Ethane.
+
+810
+01:21:47,986 --> 01:21:49,820
+To je ten �pi�n.
+
+811
+01:21:50,822 --> 01:21:52,865
+No jasn�. M� pravdu.
+
+812
+01:21:58,997 --> 01:22:00,497
+Byl na t� recepci na ambas�d�.
+
+813
+01:22:04,961 --> 01:22:08,297
+Nejd��v sejmul Jacka na v�tahu.
+
+814
+01:22:15,972 --> 01:22:17,973
+Pak tebe na most�.
+
+815
+01:22:48,129 --> 01:22:49,338
+<i>Ethane!</i>
+
+816
+01:23:03,061 --> 01:23:05,896
+Ale na Golicyna a Sarah u plotu
+musel m�t komplice.
+
+817
+01:23:25,166 --> 01:23:26,917
+A jak odd�lal Hannah?
+
+818
+01:23:52,527 --> 01:23:55,279
+Ne, to by zvl�dl s�m.
+
+819
+01:24:22,807 --> 01:24:24,016
+Pro�, Jime?
+
+820
+01:24:26,019 --> 01:24:27,102
+Pro�?
+
+821
+01:24:30,106 --> 01:24:32,191
+Bylo to nevyhnuteln�, Ethane.
+
+822
+01:24:32,275 --> 01:24:33,942
+Studen� v�lka skon�ila.
+
+823
+01:24:35,612 --> 01:24:38,489
+U� m� tajemstv� jen s�m p�ed sebou.
+
+824
+01:24:38,573 --> 01:24:41,450
+Operace si schvaluje� s�m.
+
+825
+01:24:42,327 --> 01:24:45,621
+A jednoho dne se probud�
+a prezident USA
+
+826
+01:24:45,705 --> 01:24:47,414
+vl�dne bez tv�ho svolen�.
+
+827
+01:24:48,583 --> 01:24:50,375
+Jak se ten pacholek opova�uje?
+
+828
+01:24:52,003 --> 01:24:54,088
+A pak ti dojde, �e je konec.
+
+829
+01:24:54,714 --> 01:24:57,466
+Jsi kus �rotu,
+kter� nem� cenu repasovat.
+
+830
+01:24:57,550 --> 01:25:00,636
+Tv� man�elstv� stoj� za prd
+a ro�n� bere� 62 t�c�.
+
+831
+01:25:02,680 --> 01:25:04,056
+Kittridge.
+
+832
+01:25:04,808 --> 01:25:07,476
+P�jdeme tomu gr�zlovi po krku.
+
+833
+01:25:12,774 --> 01:25:16,276
+To nebude t�eba. On p�jde po n�s.
+
+834
+01:25:18,071 --> 01:25:20,322
+Pro� by to d�lal?
+
+835
+01:25:20,406 --> 01:25:23,784
+Aby dostal to, co mu v Praze uniklo.
+Seznam tajn�ch agent� CIA.
+
+836
+01:25:26,204 --> 01:25:29,164
+Panebo�e, Ethane.
+
+837
+01:25:30,959 --> 01:25:32,459
+Tys teda zabodoval.
+
+838
+01:25:34,170 --> 01:25:37,297
+Z�tra s n�m m�m sraz
+ve vlaku TGV sm�r Pa��.
+
+839
+01:25:37,465 --> 01:25:39,716
+P��sn� prohl�dky. Nebude ozbrojen.
+
+840
+01:25:40,176 --> 01:25:41,593
+To je plus.
+
+841
+01:25:42,303 --> 01:25:44,388
+Kdy� Maxovi naoko d�m ten seznam,
+
+842
+01:25:44,472 --> 01:25:46,348
+sl�bil, �e mi J�ba se�ene.
+
+843
+01:25:47,058 --> 01:25:49,184
+Ve vlaku se mnou bude
+Claire a Luther Stickell.
+
+844
+01:25:49,269 --> 01:25:51,687
+Krieger bude v Pa��i �ekat
+s vrtuln�kem.
+
+845
+01:25:55,275 --> 01:25:56,316
+Jime?
+
+846
+01:26:06,077 --> 01:26:07,911
+�ekal jsem na tebe v kav�rn�, Ethane.
+
+847
+01:26:11,624 --> 01:26:12,875
+A ona tam st�la
+
+848
+01:26:14,377 --> 01:26:17,296
+v de�ti, �iv� a kr�sn�.
+
+849
+01:26:17,755 --> 01:26:19,214
+A myslela si, �e jsem mrtv�.
+
+850
+01:26:23,344 --> 01:26:25,929
+Kdov�, co musela ud�lat,
+aby na m� zapomn�la
+
+851
+01:26:26,014 --> 01:26:27,931
+a mohla pokra�ovat v tom �kolu.
+
+852
+01:26:32,896 --> 01:26:34,313
+Nesm� se dozv�d�t, �e �iju.
+
+853
+01:26:34,397 --> 01:26:36,607
+A� se to nikdo nedozv�,
+dokud to neskon��.
+
+854
+01:26:37,317 --> 01:26:38,358
+Asi m� pravdu.
+
+855
+01:26:40,028 --> 01:26:41,445
+V s�zce je p��li� mnoho.
+
+856
+01:26:44,032 --> 01:26:46,867
+A� opust�me �kryt, Jime,
+po��dn� se prosp�me.
+
+857
+01:26:48,786 --> 01:26:51,538
+- Zavol�m ti z Pa��e.
+- Jasn�.
+
+858
+01:26:52,957 --> 01:26:55,250
+Z�tra v poledne v TGV.
+Bu�te na sedadle 27.
+
+859
+01:26:55,335 --> 01:26:57,127
+Vezm�te na�eho
+spole�n�ho p��tele J�ba.
+
+860
+01:27:15,355 --> 01:27:16,438
+Stalo se n�co?
+
+861
+01:27:20,693 --> 01:27:22,194
+Poslal jsem Maxovi zpr�vu.
+
+862
+01:27:27,075 --> 01:27:28,200
+Z�tra to vypukne.
+
+863
+01:27:36,376 --> 01:27:37,459
+Dob�e.
+
+864
+01:27:48,012 --> 01:27:49,054
+Poj� sem.
+
+865
+01:28:31,514 --> 01:28:32,597
+Pane.
+
+866
+01:28:33,516 --> 01:28:35,392
+- Co je?
+- Pro v�s, pane.
+
+867
+01:28:35,476 --> 01:28:38,103
+Projeli jsme to rentgenem i elektronikou.
+��dn� v�bu�niny.
+
+868
+01:28:43,484 --> 01:28:46,528
+TGV - Kone�n� v Lond�n� - Poledne
+
+869
+01:28:49,574 --> 01:28:50,699
+Gene?
+
+870
+01:28:56,080 --> 01:28:58,874
+- Jak rychle budu na kone�n� vlak�?
+- Tak za 20 - 25 minut.
+
+871
+01:28:58,958 --> 01:29:00,542
+M�te na to deset minut. Pohyb!
+
+872
+01:29:38,456 --> 01:29:40,207
+- Ano?
+<i>- Dejte mi Maxe.</i>
+
+873
+01:29:41,334 --> 01:29:42,417
+To je on.
+
+874
+01:29:46,089 --> 01:29:47,964
+Takhle jsme se nedomluvili.
+
+875
+01:29:48,049 --> 01:29:50,759
+<i>Omlouv�m se, Maxi, bylo to nutn�.</i>
+
+876
+01:29:51,052 --> 01:29:53,053
+<i>Pod sedadlem najdete kus �ern� l�tky.</i>
+
+877
+01:29:53,137 --> 01:29:54,596
+<i>Roztrhn�te ji. Disk je uvnit�.</i>
+
+878
+01:30:24,836 --> 01:30:26,128
+P��SN� TAJN�
+
+879
+01:30:26,212 --> 01:30:28,547
+AGENTI: NEOFICI�LN� KRYT�
+
+880
+01:30:28,631 --> 01:30:29,756
+PRAV� IDENTITA
+
+881
+01:30:29,841 --> 01:30:31,425
+Chlap�e drah�,
+
+882
+01:30:32,927 --> 01:30:36,430
+douf�m, �e se i tak budeme moci
+osobn� setkat.
+
+883
+01:30:36,556 --> 01:30:38,515
+<i>Nejd��v mi �ekn�te, kde jsou pen�ze.</i>
+
+884
+01:30:39,225 --> 01:30:42,102
+U� ta mo�nost stoj� za 10 milion�.
+
+885
+01:30:42,186 --> 01:30:44,354
+Vag�n se zavazadly, t�et� reg�l.
+
+886
+01:30:44,480 --> 01:30:48,191
+St��brn� kuf��k, kombinace 3-1 -4.
+
+887
+01:30:48,818 --> 01:30:50,402
+<i>A co J�b?</i>
+
+888
+01:30:50,486 --> 01:30:54,030
+��dn� strach. Jak budete m�t pen�ze,
+najde si v�s.
+
+889
+01:31:09,338 --> 01:31:10,964
+MODEMOV� SPOJEN� P�ERU�ENO
+
+890
+01:31:11,883 --> 01:31:13,550
+Co se d�je?
+
+891
+01:31:13,676 --> 01:31:16,178
+- Vypadlo spojen�.
+- Zkus to znovu.
+
+892
+01:31:16,262 --> 01:31:19,389
+Mus�m to st�hnout,
+ne� budeme v tunelu pod La Manchem.
+
+893
+01:31:24,645 --> 01:31:28,773
+ODESLAT RU�IV� SIGN�L
+
+894
+01:31:32,153 --> 01:31:34,613
+- Co se stalo?
+- Vypadlo spojen�.
+
+895
+01:31:34,739 --> 01:31:35,780
+RU�IV� SIGN�L
+
+896
+01:31:35,907 --> 01:31:38,366
+To vid�m. Zkontroloval jsi baterie?
+
+897
+01:31:38,451 --> 01:31:40,577
+Jako v�dycky.
+
+898
+01:31:40,661 --> 01:31:43,413
+Ne�tvi m�. Sje� to znova.
+
+899
+01:31:48,252 --> 01:31:49,294
+To je k ni�emu.
+
+900
+01:31:49,420 --> 01:31:51,087
+Ani nev�me, jak Max vypad�.
+
+901
+01:31:51,297 --> 01:31:52,964
+To nepot�ebujeme.
+
+902
+01:31:53,424 --> 01:31:55,217
+Ten seznam si bude cht�t prohl�dnout.
+
+903
+01:31:55,301 --> 01:31:56,593
+Tak�e hled�me laptop.
+
+904
+01:32:08,523 --> 01:32:11,191
+Promi�te, pane. V� mobil.
+
+905
+01:32:11,275 --> 01:32:13,527
+Hal�? Hal�?
+
+906
+01:32:15,029 --> 01:32:16,947
+Nic nesly��m.
+
+907
+01:32:17,865 --> 01:32:20,784
+- V�echno v po��dku?
+- Jen m�me vybitou baterii.
+
+908
+01:32:20,868 --> 01:32:22,285
+U� to b��.
+
+909
+01:32:24,205 --> 01:32:25,705
+P�EN���M SOUBOR
+
+910
+01:32:34,632 --> 01:32:36,508
+Je v zavazadlov�m vag�nu.
+
+911
+01:32:38,302 --> 01:32:40,595
+Ethane, ve vlaku je Kittridge.
+
+912
+01:32:40,680 --> 01:32:41,972
+<i>Jsem hned za tebou.</i>
+
+913
+01:32:42,056 --> 01:32:44,224
+<i>Prachy jsou v zavazadlov�m vag�nu.</i>
+<i>Tam se setk�me.</i>
+
+914
+01:33:01,534 --> 01:33:02,826
+Barnesi?
+
+915
+01:33:40,906 --> 01:33:42,365
+Ethan je hned za mnou.
+
+916
+01:33:44,785 --> 01:33:48,204
+Jime, fakt ho m�me zab�t?
+
+917
+01:33:52,710 --> 01:33:53,877
+Je tu Kittridge.
+
+918
+01:33:58,132 --> 01:33:59,257
+Vezmeme si pen�ze.
+
+919
+01:34:00,301 --> 01:34:01,885
+A schyt� to Ethan.
+
+920
+01:34:04,555 --> 01:34:06,389
+Tebe nikdo na�ivu nevid�l.
+
+921
+01:34:09,435 --> 01:34:11,770
+Nikdo mu neuv���.
+
+922
+01:34:39,465 --> 01:34:40,757
+Ov�em,
+
+923
+01:34:40,841 --> 01:34:43,635
+to m� velmi mrz�, Claire.
+
+924
+01:34:47,431 --> 01:34:49,265
+- Ethane.
+- Ano.
+
+925
+01:34:50,685 --> 01:34:53,770
+Ethan Hunt, zlato.
+Na toho si vzpom�n�, ne?
+
+926
+01:34:56,107 --> 01:34:58,692
+- Tys v�d�l, �e je to Jim?
+- Jist�.
+
+927
+01:35:01,654 --> 01:35:04,280
+Jen nev�m p�esn�, jak dlouho.
+
+928
+01:35:04,365 --> 01:35:05,615
+Nepov� mi to, Ethane?
+
+929
+01:35:06,867 --> 01:35:08,618
+V Lond�n�? Nebo u� p�edt�m.
+
+930
+01:35:10,371 --> 01:35:11,871
+U� p�edt�m,
+
+931
+01:35:12,123 --> 01:35:15,041
+ale a� potom, co jsi sebral Bibli
+z hotelu Drake v Chicagu.
+
+932
+01:35:16,502 --> 01:35:19,629
+Zatracen� Gideonovci.
+Dali na ni raz�tko, vi�?
+
+933
+01:35:21,632 --> 01:35:24,926
+Ale kdy� jsi o Jimovi v�d�l, pro�...
+
+934
+01:35:25,010 --> 01:35:27,887
+Pro� se p�estrojil? Pro� tak riskuje?
+
+935
+01:35:28,723 --> 01:35:31,725
+Claire, odpov�� je jednoduch�.
+
+936
+01:35:32,727 --> 01:35:33,893
+Kv�li tob�.
+
+937
+01:35:35,479 --> 01:35:36,980
+J� v�d�l, �e Jim v�.
+
+938
+01:35:37,231 --> 01:35:38,815
+Ale tebe nepodez�ral.
+
+939
+01:35:40,067 --> 01:35:41,484
+K�pnu bo�skou, Ethane.
+
+940
+01:35:41,569 --> 01:35:44,404
+Claire nev��ila, �e t� dok�e okouzlit.
+
+941
+01:35:45,531 --> 01:35:49,159
+Ale j� tomu v��il,
+proto�e v�m, jak chutn�.
+
+942
+01:35:51,662 --> 01:35:56,583
+"Nepo��d� man�elky
+bli�n�ho sv�ho," Ethane.
+
+943
+01:35:58,335 --> 01:36:00,795
+Seberme pen�ze a rychle pry�.
+
+944
+01:36:00,880 --> 01:36:02,046
+Jasn�, pen�ze.
+
+945
+01:36:03,215 --> 01:36:06,259
+Ethane, pen�ze.
+
+946
+01:36:08,929 --> 01:36:10,013
+Dej j� ty prachy.
+
+947
+01:36:14,185 --> 01:36:15,268
+Vyslou�ila sis je.
+
+948
+01:36:23,110 --> 01:36:24,736
+10 milion�.
+
+949
+01:36:24,904 --> 01:36:28,031
+Vjednom se Claire zm�lila, Jime.
+
+950
+01:36:28,532 --> 01:36:29,616
+V�n�?
+
+951
+01:36:30,284 --> 01:36:31,367
+A v �em?
+
+952
+01:36:50,721 --> 01:36:52,388
+Dobr� jitro, pane Phelpsi.
+
+953
+01:36:54,391 --> 01:36:56,810
+Nejsem jedin�, kdo t� vid�l na�ivu.
+
+954
+01:37:00,397 --> 01:37:02,065
+Ty hajzle.
+
+955
+01:37:02,483 --> 01:37:03,566
+Je konec, Jime.
+
+956
+01:37:10,407 --> 01:37:13,034
+Ned�lej to, Jime.
+
+957
+01:37:13,118 --> 01:37:14,160
+"Ned�lej to, Jime."
+
+958
+01:40:22,266 --> 01:40:24,809
+P�ENOS NEBYL PROVEDEN
+SPOJEN� UKON�ENO
+
+959
+01:40:25,102 --> 01:40:26,102
+Kruci!
+
+960
+01:40:29,523 --> 01:40:31,399
+Ne, je v tunelu!
+
+961
+01:40:32,109 --> 01:40:34,277
+Ne, ne! Nabour� do n�s!
+
+962
+01:40:34,361 --> 01:40:36,237
+P�idej! P�idej!
+
+963
+01:42:38,068 --> 01:42:39,402
+�erven� sv�tlo!
+
+964
+01:42:40,654 --> 01:42:42,029
+Zelen� sv�tlo!
+
+965
+01:43:30,329 --> 01:43:34,707
+Nem��eme tu jen tak sed�t. Mus�me...
+
+966
+01:43:34,791 --> 01:43:36,584
+Mysl�m, �e hled�te tohle.
+
+967
+01:43:43,508 --> 01:43:44,926
+Zdrav��ko, Maxi.
+
+968
+01:43:45,844 --> 01:43:48,930
+To bude lah�dka pro m� pr�vn�ky.
+
+969
+01:43:49,014 --> 01:43:51,599
+�kladn� p�epaden�
+mimo svoji sf�ru p�sobnosti...
+
+970
+01:43:51,683 --> 01:43:55,061
+Mo�n� z toho soudy vynech�me.
+
+971
+01:43:57,773 --> 01:44:02,360
+Ur�it� v�m budu m�t co nab�dnout.
+
+972
+01:44:02,819 --> 01:44:04,070
+<i>Bizarn� nehoda.</i>
+
+973
+01:44:04,154 --> 01:44:07,573
+<i>Vrtuln�k ztratil v��ku, vlet�l do tunelu</i>
+
+974
+01:44:07,658 --> 01:44:11,827
+<i>a narazil do rychlovlaku Lond�n-Pa��.</i>
+
+975
+01:44:12,246 --> 01:44:15,873
+<i>Pilot zem�el, ale cestuj�c� ve vlaku</i>
+<i>vyv�zli bez �hony.</i>
+
+976
+01:44:16,250 --> 01:44:19,877
+<i>Podle ��ad� sr�ku zavinilo</i>
+<i>selh�n� p��stroj�.</i>
+
+977
+01:44:19,962 --> 01:44:22,797
+Co m�ma a strejda? Jak jim je?
+
+978
+01:44:22,881 --> 01:44:24,257
+Co mysl�?
+
+979
+01:44:24,508 --> 01:44:28,219
+P�ece se jim omluvilo
+Ministerstvo spravedlnosti
+
+980
+01:44:28,303 --> 01:44:30,554
+a zach�zej� s nimi v rukavi�k�ch.
+
+981
+01:44:31,098 --> 01:44:33,224
+M�ma byla trochu zmaten�,
+
+982
+01:44:33,308 --> 01:44:35,851
+jak ji a strejdu Donalda
+mohli na protidrogov�m pova�ovat
+
+983
+01:44:35,936 --> 01:44:38,396
+za dva pa�er�ky z Floridy.
+
+984
+01:44:41,441 --> 01:44:42,608
+Na zdrav�.
+
+985
+01:44:44,194 --> 01:44:47,655
+Na tebe, Luthere,
+�e u� nejsi odepsan� agent.
+
+986
+01:44:47,739 --> 01:44:49,198
+Te� jsem za hv�zdu.
+
+987
+01:44:52,828 --> 01:44:54,161
+Nechce� se vr�tit se mnou?
+
+988
+01:44:57,040 --> 01:44:58,457
+Vlastn� ani...
+
+989
+01:44:58,875 --> 01:45:00,584
+Ani nev�m, pro� bych to d�lal.
+
+990
+01:45:03,505 --> 01:45:05,506
+U� mi to let�.
+
+991
+01:45:06,717 --> 01:45:08,676
+Jak� to je, b�t zase ��dn�m ob�anem?
+
+992
+01:45:11,346 --> 01:45:13,014
+Ani nev�m.
+
+993
+01:45:15,058 --> 01:45:16,851
+Po ilegalit� se mi bude st�skat.
+
+994
+01:45:17,728 --> 01:45:20,479
+Jestli ti to ud�l� radost,
+
+995
+01:45:20,564 --> 01:45:21,814
+pro m� jsi po��d ileg�l.
+
+996
+01:45:33,744 --> 01:45:35,536
+Promi�te. Pan Hunt?
+
+997
+01:45:37,164 --> 01:45:38,581
+Chcete sledovat film?
+
+998
+01:45:42,711 --> 01:45:44,211
+Ne, d�kuji.
+
+999
+01:45:44,504 --> 01:45:46,922
+A co t�eba karibsk� film?
+
+1000
+01:45:49,676 --> 01:45:51,177
+O ostrov� Aruba?
+
+1001
+01:50:09,561 --> 01:50:10,561
+Czech
+
+1002
+01:50:10,561 --> 01:50:14,000
+www.Titulky.com
